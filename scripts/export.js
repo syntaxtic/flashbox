@@ -116,34 +116,38 @@ function csvGroup(c) {
 }
 
 function buildMochiEdn(deckName, cards) {
+  // Nest cards inside each deck (official sample / working exporters).
+  // Include :name so cards appear in Mochi's list UI.
   const parentId = mochiId(`deck${deckName}`);
   const bySub = groupBy(cards, (c) => c.subdeck || "general");
   const deckBlocks = [
     `{:name ${ednString(titleCase(deckName))}\n  :id :${parentId}}`,
   ];
-  const cardBlocks = [];
 
   let subIdx = 0;
   for (const [sub, subCards] of bySub) {
     subIdx++;
     const childId = mochiId(`deck${deckName}${sub}`);
-    deckBlocks.push(
-      `{:name ${ednString(titleCase(sub))}\n  :id :${childId}\n  :parent-id :${parentId}}`
-    );
-
-    subCards.forEach((c, i) => {
+    const cardForms = subCards.map((c, i) => {
       const content = `${c.front}\n---\n${c.back}`;
-      cardBlocks.push(
-        `{:id :${mochiId(c.id)}\n  :deck-id :${childId}\n  :pos ${ednString(posKey(subIdx * 10000 + i + 1))}\n  :content ${ednString(content)}}`
+      // Match working exporters: nest under deck, set :name for list UI
+      return (
+        `{:id :${mochiId(c.id)}\n` +
+        `    :name ${ednString(c.front)}\n` +
+        `    :pos ${ednString(posKey(i + 1))}\n` +
+        `    :content ${ednString(content)}}`
       );
     });
+
+    deckBlocks.push(
+      `{:name ${ednString(titleCase(sub))}\n` +
+        `  :id :${childId}\n` +
+        `  :parent-id :${parentId}\n` +
+        `  :cards [${cardForms.join("\n          ")}]}`
+    );
   }
 
-  return (
-    `{:version 2\n` +
-    ` :decks [${deckBlocks.join("\n        ")}]\n` +
-    ` :cards [${cardBlocks.join("\n        ")}]}\n`
-  );
+  return `{:version 2\n :decks [${deckBlocks.join("\n        ")}]}\n`;
 }
 
 function writeMochi(deckName, cards) {
