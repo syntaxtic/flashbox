@@ -3,7 +3,8 @@
   "version": "0.0.1",
   "scripts": {
     "id": "node scripts/id.js",
-    "id:fill": "node scripts/id.js fill"
+    "id:fill": "node scripts/id.js fill",
+    "export": "node scripts/export.js"
   },
   "keywords": [],
   "author": "",

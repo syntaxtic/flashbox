@@ -1,0 +1,1746 @@
+Question,Content,Tags,id
+Monday *(noun)*,"el lunes
+
+Pazartesi",trio-lingua calendar noun term,cal_GFIfKD-4Df51
+Tuesday *(noun)*,"el martes
+
+Salı",trio-lingua calendar noun term,cal_-jmFejGO2F_B
+Wednesday *(noun)*,"el miércoles
+
+Çarşamba",trio-lingua calendar noun term,cal_YJT5niJaLpKl
+Thursday *(noun)*,"el jueves
+
+Perşembe",trio-lingua calendar noun term,cal_KLBSNCcGOGRM
+Friday *(noun)*,"el viernes
+
+Cuma",trio-lingua calendar noun term,cal_eUbuNLKirr9y
+Saturday *(noun)*,"el sábado
+
+Cumartesi",trio-lingua calendar noun term,cal_5RvAWC2vo2fh
+Sunday *(noun)*,"el domingo
+
+Pazar",trio-lingua calendar noun term,cal_vao0OzKjDAZL
+January *(noun)*,"el enero
+
+Ocak",trio-lingua calendar noun term,cal_gZbLgnSkQ6dC
+February *(noun)*,"el febrero
+
+Şubat",trio-lingua calendar noun term,cal_3JcJMaGoCkTi
+March *(noun)*,"el marzo
+
+Mart",trio-lingua calendar noun term,cal_8T7mkZ9vumbX
+April *(noun)*,"el abril
+
+Nisan",trio-lingua calendar noun term,cal_nOvDVnoBU8Yr
+May *(noun)*,"el mayo
+
+Mayıs",trio-lingua calendar noun term,cal_He3vTtMtBaEI
+June *(noun)*,"el junio
+
+Haziran",trio-lingua calendar noun term,cal_7SxfZPXXTIww
+July *(noun)*,"el julio
+
+Temmuz",trio-lingua calendar noun term,cal_XWFjRlSUxgGb
+August *(noun)*,"el agosto
+
+Ağustos",trio-lingua calendar noun term,cal_w8mtXGIMnv3g
+September *(noun)*,"el septiembre
+
+Eylül",trio-lingua calendar noun term,cal_ir3PaaU7TuTC
+October *(noun)*,"el octubre
+
+Ekim",trio-lingua calendar noun term,cal_hYKH9vxM3dWa
+November *(noun)*,"el noviembre
+
+Kasım",trio-lingua calendar noun term,cal_SteZMYE8tugT
+December *(noun)*,"el diciembre
+
+Aralık",trio-lingua calendar noun term,cal_R06y0sbqTtqf
+spring *(noun)*,"la primavera
+
+ilkbahar",trio-lingua calendar noun term,cal_kIsSg6mSnBwV
+summer *(noun)*,"el verano
+
+yaz",trio-lingua calendar noun term,cal_ySl4_5uZd3WV
+autumn *(noun)*,"el otoño
+
+sonbahar",trio-lingua calendar noun term,cal_yow5pRMrc5WF
+fall *(noun)*,"el otoño (también: autumn)
+
+sonbahar",trio-lingua calendar noun term,cal_FqrkXskml7Jh
+winter *(noun)*,"el invierno
+
+kış",trio-lingua calendar noun term,cal_AbQWUSkkO62V
+morning *(noun)*,"la mañana
+
+sabah",trio-lingua calendar noun term,cal_tTlsbbVNffqC
+afternoon *(noun)*,"la tarde
+
+öğleden sonra",trio-lingua calendar noun term,cal_DtcsvYeB9ZzE
+evening *(noun)*,"la tarde / la noche (según el contexto)
+
+akşam",trio-lingua calendar noun term,cal_TQ9WHr97S5_c
+night *(noun)*,"la noche
+
+gece",trio-lingua calendar noun term,cal_lPsk1fQaUXIR
+noon *(noun)*,"el mediodía
+
+öğle / öğlen",trio-lingua calendar noun term,cal_lGOiHgYPG-O0
+midnight *(noun)*,"la medianoche
+
+gece yarısı",trio-lingua calendar noun term,cal_Sg8976pCdOjl
+today *(adverb)*,"hoy
+
+bugün",trio-lingua calendar adverb term,cal_eUoY1qrogVPc
+yesterday *(adverb)*,"ayer
+
+dün",trio-lingua calendar adverb term,cal_eIC8NgPhNbCR
+tomorrow *(adverb)*,"mañana
+
+yarın",trio-lingua calendar adverb term,cal_sL8zvrX30zHu
+day before yesterday *(adverb)*,"anteayer / antes de ayer
+
+evvelsi gün",trio-lingua calendar adverb term,cal_c_O13bJeaX92
+day after tomorrow *(adverb)*,"pasado mañana
+
+öbür gün",trio-lingua calendar adverb term,cal_iw_P8BrJHqDu
+week *(noun)*,"la semana
+
+hafta",trio-lingua calendar noun term,cal_H3HessrJQwgy
+weekend *(noun)*,"el fin de semana
+
+hafta sonu",trio-lingua calendar noun term,cal_W1OPY4or-7Hh
+weekday *(noun)*,"el día laborable / el día hábil
+
+hafta içi",trio-lingua calendar noun term,cal_IqHx8Ec5kkjy
+fortnight *(noun)*,"la quincena / dos semanas
+
+iki hafta / on beş gün",trio-lingua calendar noun term,cal_sqc8zn3NDcv_
+day *(noun)*,"el día
+
+gün",trio-lingua calendar noun term,cal_sv0UUakuCjC1
+date *(noun)*,"la fecha
+
+tarih",trio-lingua calendar noun term,cal_Sd6vc4fkC8XT
+month *(noun)*,"el mes
+
+ay",trio-lingua calendar noun term,cal_1rZVVzPMcEgF
+year *(noun)*,"el año
+
+yıl",trio-lingua calendar noun term,cal_Ulx6rIU-_ODF
+decade *(noun)*,"la década
+
+on yıl",trio-lingua calendar noun term,cal_CTfqbXzRrh9M
+century *(noun)*,"el siglo
+
+yüzyıl",trio-lingua calendar noun term,cal_DZBLZnnzBXqG
+leap year *(noun)*,"el año bisiesto
+
+artık yıl",trio-lingua calendar noun term,cal_YL7GoeeK88oo
+daily *(adverb)*,"diariamente / a diario
+
+her gün / günlük",trio-lingua calendar adverb term,cal_1M_cbb6QRmt9
+weekly *(adverb)*,"semanalmente / semanal
+
+her hafta / haftalık",trio-lingua calendar adverb term,cal_yAImJ26tBMbh
+monthly *(adverb)*,"mensualmente / mensual
+
+her ay / aylık",trio-lingua calendar adverb term,cal_MwpDTunVAo0_
+yearly *(adverb)*,"anualmente / anual
+
+her yıl / yıllık",trio-lingua calendar adverb term,cal_BGGy6R2u6Vkx
+annually *(adverb)*,"anualmente / anual
+
+yılda bir / yıllık",trio-lingua calendar adverb term,cal_BvfdG1dU8wSH
+beginning of the week *(noun)*,"a principios de la semana / el comienzo de la semana
+
+haftanın başı",trio-lingua calendar noun term,cal_4GyoabZf2Lyu
+middle of the week *(noun)*,"a mediados de la semana
+
+haftanın ortası",trio-lingua calendar noun term,cal_lzWQ9csAz8Ps
+end of the week *(noun)*,"a finales de la semana / el final de la semana
+
+haftanın sonu",trio-lingua calendar noun term,cal_ypvNeN9midmA
+beginning of the month *(noun)*,"a principios de mes / el comienzo del mes
+
+ayın başı",trio-lingua calendar noun term,cal_PQ78RECqozQx
+middle of the month *(noun)*,"a mediados de mes
+
+ayın ortası",trio-lingua calendar noun term,cal_QXbZdQ7EzmoA
+end of the month *(noun)*,"a finales de mes / el final del mes
+
+ayın sonu",trio-lingua calendar noun term,cal_JYEJ2tPfAJPP
+What day is it today? *(phrase)*,"¿Qué día es hoy?
+
+Bugün günlerden ne?",trio-lingua calendar phrase,cal_h8CLTDzLPh0f
+today's date *(phrase)*,"la fecha de hoy
+
+bugünün tarihi",trio-lingua calendar phrase,cal_xnwWQNLk1_VZ
+last week *(phrase)*,"la semana pasada
+
+geçen hafta",trio-lingua calendar phrase,cal_E_8fB93JHmxz
+this week *(phrase)*,"esta semana
+
+bu hafta",trio-lingua calendar phrase,cal_OFViiC9ztidt
+next week *(phrase)*,"la semana que viene / la próxima semana
+
+gelecek hafta",trio-lingua calendar phrase,cal_mWbssS4mvKAF
+last month *(phrase)*,"el mes pasado
+
+geçen ay",trio-lingua calendar phrase,cal_W1YY3bcJ_O25
+this month *(phrase)*,"este mes
+
+bu ay",trio-lingua calendar phrase,cal_CswDP1iQ2gZh
+next month *(phrase)*,"el mes que viene / el próximo mes
+
+gelecek ay",trio-lingua calendar phrase,cal_nx0eaeLy8qaP
+last year *(phrase)*,"el año pasado
+
+geçen yıl",trio-lingua calendar phrase,cal_7UoDF3BU2UEz
+this year *(phrase)*,"este año
+
+bu yıl",trio-lingua calendar phrase,cal_AfcquyjnfDIZ
+next year *(phrase)*,"el año que viene / el próximo año
+
+gelecek yıl",trio-lingua calendar phrase,cal_2OjUxj9cHu15
+country *(noun)*,"el país
+
+ülke",trio-lingua countries noun term general,cou_IjsrgJXjwi1y
+nationality *(noun)*,"la nacionalidad
+
+uyruk / milliyet",trio-lingua countries noun term general,cou_S7RCxafFsNE9
+language *(noun)*,"el idioma / la lengua
+
+dil
+
+*el idioma is masculine*",trio-lingua countries noun term general,cou_cmHIlaKMGxxJ
+Spain *(noun)*,"España
+
+İspanya",trio-lingua countries noun term,cou_WHbPbt5G0Doc
+Mexico *(noun)*,"México
+
+Meksika",trio-lingua countries noun term,cou_zY_iJtLTQjBi
+Argentina *(noun)*,"Argentina
+
+Arjantin",trio-lingua countries noun term,cou_iDMDMXMpBUSy
+Colombia *(noun)*,"Colombia
+
+Kolombiya",trio-lingua countries noun term,cou_sJd4lLrEYCNc
+Peru *(noun)*,"Perú
+
+Peru",trio-lingua countries noun term,cou_HZG-Q_khmJx6
+Chile *(noun)*,"Chile
+
+Şili",trio-lingua countries noun term,cou_fVT5sdvK4-MY
+Turkey *(noun)*,"Turquía
+
+Türkiye",trio-lingua countries noun term,cou_0wRtSB3pyrNR
+United States *(noun)*,"Estados Unidos
+
+Amerika Birleşik Devletleri",trio-lingua countries noun term,cou_OCxNEi-40tdT
+England *(noun)*,"Inglaterra
+
+İngiltere",trio-lingua countries noun term,cou_Fxl-m9Z3WHPR
+France *(noun)*,"Francia
+
+Fransa",trio-lingua countries noun term,cou_CcMmi0P-uNPi
+Germany *(noun)*,"Alemania
+
+Almanya",trio-lingua countries noun term,cou_HpMkqRBnwdlg
+Italy *(noun)*,"Italia
+
+İtalya",trio-lingua countries noun term,cou_RXlzilK8ZGkJ
+Portugal *(noun)*,"Portugal
+
+Portekiz",trio-lingua countries noun term,cou_HX5SnP3Udm-C
+Brazil *(noun)*,"Brasil
+
+Brezilya",trio-lingua countries noun term,cou_2ChY0oOx7kAE
+Greece *(noun)*,"Grecia
+
+Yunanistan",trio-lingua countries noun term,cou_iMGpMMeAws8L
+Russia *(noun)*,"Rusia
+
+Rusya",trio-lingua countries noun term,cou_XGSmDvrUMftK
+China *(noun)*,"China
+
+Çin",trio-lingua countries noun term,cou_i__Y7gKri_RS
+Japan *(noun)*,"Japón
+
+Japonya",trio-lingua countries noun term,cou_xsOHimXZhS6U
+Spanish (person) *(adjective)*,"español / española
+
+İspanyol
+
+*nationalities are lowercase in Spanish*",trio-lingua countries adjective term nationalities,cou_dk4VxRHRBw6j
+Mexican *(adjective)*,"mexicano / mexicana
+
+Meksikalı",trio-lingua countries adjective term nationalities,cou_TFEM31h6JXBX
+Argentinian *(adjective)*,"argentino / argentina
+
+Arjantinli",trio-lingua countries adjective term nationalities,cou_aSgOE30c5bto
+Colombian *(adjective)*,"colombiano / colombiana
+
+Kolombiyalı",trio-lingua countries adjective term nationalities,cou_NQReA60qpMCn
+Peruvian *(adjective)*,"peruano / peruana
+
+Perulu",trio-lingua countries adjective term nationalities,cou_1mMVgBHx8sof
+Chilean *(adjective)*,"chileno / chilena
+
+Şilili",trio-lingua countries adjective term nationalities,cou_gtSBi7tu5uHz
+Turkish (person) *(adjective)*,"turco / turca
+
+Türk",trio-lingua countries adjective term nationalities,cou_BxQU2rvKEp-W
+American (US) *(adjective)*,"estadounidense
+
+Amerikalı
+
+*same form for both genders*",trio-lingua countries adjective term nationalities,cou_3mtaCQ6_M9qN
+English (person) *(adjective)*,"inglés / inglesa
+
+İngiliz",trio-lingua countries adjective term nationalities,cou_pKp1JqhzWBEP
+French (person) *(adjective)*,"francés / francesa
+
+Fransız",trio-lingua countries adjective term nationalities,cou_y7HvbbPo-PU5
+German (person) *(adjective)*,"alemán / alemana
+
+Alman",trio-lingua countries adjective term nationalities,cou_lQru7m5GJztM
+Italian (person) *(adjective)*,"italiano / italiana
+
+İtalyan",trio-lingua countries adjective term nationalities,cou_C05nd8q_3WuT
+Portuguese (person) *(adjective)*,"portugués / portuguesa
+
+Portekizli",trio-lingua countries adjective term nationalities,cou_kgXyIDLc-eUJ
+Brazilian *(adjective)*,"brasileño / brasileña
+
+Brezilyalı",trio-lingua countries adjective term nationalities,cou_lgGHNMZefvHe
+Greek (person) *(adjective)*,"griego / griega
+
+Yunan",trio-lingua countries adjective term nationalities,cou_5ZUeqsSFLkHq
+Russian (person) *(adjective)*,"ruso / rusa
+
+Rus",trio-lingua countries adjective term nationalities,cou_HJ1s9zkcSr2y
+Chinese (person) *(adjective)*,"chino / china
+
+Çinli",trio-lingua countries adjective term nationalities,cou_6fyQM-1ji50M
+Japanese (person) *(adjective)*,"japonés / japonesa
+
+Japon",trio-lingua countries adjective term nationalities,cou__-Fa8Dx1ATU7
+Spanish (language) *(noun)*,"el español / el castellano
+
+İspanyolca",trio-lingua countries noun term languages,cou_2DMcmUU3uvUf
+English (language) *(noun)*,"el inglés
+
+İngilizce",trio-lingua countries noun term languages,cou_eC9C4AwZAotQ
+Turkish (language) *(noun)*,"el turco
+
+Türkçe",trio-lingua countries noun term languages,cou_5OhAR8IIK8hw
+French (language) *(noun)*,"el francés
+
+Fransızca",trio-lingua countries noun term languages,cou_7Z2xl_o0K6eD
+German (language) *(noun)*,"el alemán
+
+Almanca",trio-lingua countries noun term languages,cou_tPaVo4K3e3se
+Italian (language) *(noun)*,"el italiano
+
+İtalyanca",trio-lingua countries noun term languages,cou_pJLdO181Ea9w
+Portuguese (language) *(noun)*,"el portugués
+
+Portekizce",trio-lingua countries noun term languages,cou_0CNSnmR0XwTu
+Arabic (language) *(noun)*,"el árabe
+
+Arapça",trio-lingua countries noun term languages,cou_IylYPfVAUjWT
+Chinese (language) *(noun)*,"el chino
+
+Çince",trio-lingua countries noun term languages,cou_dXviJrByow-A
+Japanese (language) *(noun)*,"el japonés
+
+Japonca",trio-lingua countries noun term languages,cou_cBFWjR4Ox8Hu
+Russian (language) *(noun)*,"el ruso
+
+Rusça",trio-lingua countries noun term languages,cou_Ik05N5W2Q4kX
+Greek (language) *(noun)*,"el griego
+
+Yunanca",trio-lingua countries noun term languages,cou_V3ZE42e9QFr2
+I am from Turkey. *(phrase)*,"Soy de Turquía.
+
+Türkiye'denim.",trio-lingua countries phrase phrases,cou_ek_ccHJ7hO4o
+I speak a little Spanish. *(phrase)*,"Hablo un poco de español.
+
+Biraz İspanyolca konuşuyorum.",trio-lingua countries phrase phrases,cou_NmDvZ8NL5nQP
+What languages do you speak? *(phrase)*,"¿Qué idiomas hablas?
+
+Hangi dilleri konuşuyorsun?",trio-lingua countries phrase phrases,cou_5CiF0ugSbN5s
+color *(noun)*,"el color
+
+renk",trio-lingua descriptions noun term colors,des_AAOFxMDqFPmz
+red *(adjective)*,"rojo / roja
+
+kırmızı",trio-lingua descriptions adjective term colors,des_xwiGTcR_mGqQ
+blue *(adjective)*,"azul
+
+mavi
+
+*invariable in gender*",trio-lingua descriptions adjective term colors,des_ODsglQjUYrMb
+green *(adjective)*,"verde
+
+yeşil
+
+*invariable in gender*",trio-lingua descriptions adjective term colors,des__G55h9ink1va
+yellow *(adjective)*,"amarillo / amarilla
+
+sarı",trio-lingua descriptions adjective term colors,des_axKUo_ukSCXY
+black *(adjective)*,"negro / negra
+
+siyah",trio-lingua descriptions adjective term colors,des_-7GHobLDEBPv
+white *(adjective)*,"blanco / blanca
+
+beyaz",trio-lingua descriptions adjective term colors,des_h-uOJyYyEOhh
+orange *(adjective)*,"naranja
+
+turuncu
+
+*invariable; same word as the fruit*",trio-lingua descriptions adjective term colors,des_IDlPWW87aMNh
+purple *(adjective)*,"morado / morada
+
+mor",trio-lingua descriptions adjective term colors,des_uamSkp-qkOjc
+pink *(adjective)*,"rosa
+
+pembe
+
+*invariable*",trio-lingua descriptions adjective term colors,des_p3vbqlQe2LkS
+brown *(adjective)*,"marrón
+
+kahverengi",trio-lingua descriptions adjective term colors,des_fedyijSNTw5t
+gray *(adjective)*,"gris
+
+gri",trio-lingua descriptions adjective term colors,des_oTms3tCg5QQR
+light (color) *(adjective)*,"claro / clara
+
+açık (renk)
+
+*e.g. azul claro*",trio-lingua descriptions adjective term colors,des_7I2d_vi_jjMG
+dark (color) *(adjective)*,"oscuro / oscura
+
+koyu (renk)
+
+*e.g. azul oscuro*",trio-lingua descriptions adjective term colors,des_wtUPjfeCHwIO
+big *(adjective)*,"grande
+
+büyük
+
+*gran before a singular noun*",trio-lingua descriptions adjective term adjectives,des_P8ZAzAL2i-Uo
+small *(adjective)*,"pequeño / pequeña
+
+küçük",trio-lingua descriptions adjective term adjectives,des_T1CF-ETkxmO9
+tall *(adjective)*,"alto / alta
+
+uzun (boy)",trio-lingua descriptions adjective term adjectives,des_p_VfIhd5NLW_
+short (height) *(adjective)*,"bajo / baja
+
+kısa (boy)",trio-lingua descriptions adjective term adjectives,des_jqbFaln6s2Zj
+long *(adjective)*,"largo / larga
+
+uzun",trio-lingua descriptions adjective term adjectives,des_jbVxmT8ZNy9C
+short (length) *(adjective)*,"corto / corta
+
+kısa",trio-lingua descriptions adjective term adjectives,des_TkZuKZOSReNG
+new *(adjective)*,"nuevo / nueva
+
+yeni",trio-lingua descriptions adjective term adjectives,des_iSSbwXx6F4he
+old (thing) *(adjective)*,"viejo / vieja
+
+eski",trio-lingua descriptions adjective term adjectives,des_wIRYWnRqV2mU
+young *(adjective)*,"joven
+
+genç",trio-lingua descriptions adjective term adjectives,des_MCMcIPQqG814
+good *(adjective)*,"bueno / buena
+
+iyi
+
+*buen before a masc. singular noun*",trio-lingua descriptions adjective term adjectives,des_WLrfdYOcYXVg
+bad *(adjective)*,"malo / mala
+
+kötü
+
+*mal before a masc. singular noun*",trio-lingua descriptions adjective term adjectives,des_HoyQA0wnZQnS
+hot *(adjective)*,"caliente
+
+sıcak",trio-lingua descriptions adjective term adjectives,des_efTNDv4h6A7i
+cold *(adjective)*,"frío / fría
+
+soğuk",trio-lingua descriptions adjective term adjectives,des_FlK8rX4eIYmv
+fast *(adjective)*,"rápido / rápida
+
+hızlı",trio-lingua descriptions adjective term adjectives,des_1Vu0WFhuDHVD
+slow *(adjective)*,"lento / lenta
+
+yavaş",trio-lingua descriptions adjective term adjectives,des__dtfw6yEetyo
+easy *(adjective)*,"fácil
+
+kolay",trio-lingua descriptions adjective term adjectives,des_1e99Cl3np8zF
+difficult *(adjective)*,"difícil
+
+zor",trio-lingua descriptions adjective term adjectives,des__ZSKz0AMfsD8
+happy *(adjective)*,"feliz / contento
+
+mutlu
+
+*use estar with contento*",trio-lingua descriptions adjective term adjectives,des_t5AGkuYmZmPg
+sad *(adjective)*,"triste
+
+üzgün",trio-lingua descriptions adjective term adjectives,des_fYPWi1wrdEzz
+beautiful *(adjective)*,"bonito / bonita
+
+güzel",trio-lingua descriptions adjective term adjectives,des_T2IkUT1-mvbZ
+ugly *(adjective)*,"feo / fea
+
+çirkin",trio-lingua descriptions adjective term adjectives,des_czHZhodOECAC
+expensive *(adjective)*,"caro / cara
+
+pahalı",trio-lingua descriptions adjective term adjectives,des_ts8qlomJuNN2
+cheap *(adjective)*,"barato / barata
+
+ucuz",trio-lingua descriptions adjective term adjectives,des_-1v3yONrncRj
+open *(adjective)*,"abierto / abierta
+
+açık",trio-lingua descriptions adjective term adjectives,des_lO6reb1USQql
+closed *(adjective)*,"cerrado / cerrada
+
+kapalı",trio-lingua descriptions adjective term adjectives,des_DENlz8CWh9o_
+full *(adjective)*,"lleno / llena
+
+dolu",trio-lingua descriptions adjective term adjectives,des_aDMaDDrCU8Rp
+empty *(adjective)*,"vacío / vacía
+
+boş",trio-lingua descriptions adjective term adjectives,des_seV1PWHC2ose
+clean *(adjective)*,"limpio / limpia
+
+temiz",trio-lingua descriptions adjective term adjectives,des_0QYVrHyo_mVK
+dirty *(adjective)*,"sucio / sucia
+
+kirli",trio-lingua descriptions adjective term adjectives,des_b3Z_RANAKKR4
+strong *(adjective)*,"fuerte
+
+güçlü",trio-lingua descriptions adjective term adjectives,des_NGwALn_Hd--b
+weak *(adjective)*,"débil
+
+zayıf",trio-lingua descriptions adjective term adjectives,des_docys0AHVGCj
+a lot / many *(adjective)*,"mucho / mucha
+
+çok",trio-lingua descriptions adjective term adjectives,des_fVfmiGmU7Z2B
+a little / few *(adjective)*,"poco / poca
+
+az",trio-lingua descriptions adjective term adjectives,des_LhwZUCHG4y9o
+food *(noun)*,"la comida
+
+yemek",trio-lingua food noun term meals,foo_MgxcMMG-bb-U
+meal *(noun)*,"la comida
+
+öğün",trio-lingua food noun term meals,foo_XPSMV0zKK7FG
+breakfast *(noun)*,"el desayuno
+
+kahvaltı",trio-lingua food noun term meals,foo_apwLzpwpVQM0
+lunch *(noun)*,"el almuerzo / la comida
+
+öğle yemeği",trio-lingua food noun term meals,foo_vfdCRzGsurQg
+dinner *(noun)*,"la cena
+
+akşam yemeği",trio-lingua food noun term meals,foo_KpqcXtAaXEgE
+snack *(noun)*,"la merienda / el aperitivo
+
+atıştırmalık",trio-lingua food noun term meals,foo_Oz2vBvEK4_cI
+dessert *(noun)*,"el postre
+
+tatlı",trio-lingua food noun term meals,foo_PKmReIWiFNHv
+appetizer / tapas *(noun)*,"la tapa / el entrante
+
+meze / başlangıç",trio-lingua food noun term meals,foo_HNv-K3sHOSEX
+bread *(noun)*,"el pan
+
+ekmek",trio-lingua food noun term meals,foo_l4g0EucQtM_i
+soup *(noun)*,"la sopa
+
+çorba",trio-lingua food noun term meals,foo_lxFKyHWN2vKB
+salad *(noun)*,"la ensalada
+
+salata",trio-lingua food noun term meals,foo_iCSIEsAv4O0m
+meat *(noun)*,"la carne
+
+et",trio-lingua food noun term meals,foo_VOvCLV06Zkv5
+chicken (meat) *(noun)*,"el pollo
+
+tavuk (eti)",trio-lingua food noun term meals,foo_ueLTKwwwUFAE
+fish (food) *(noun)*,"el pescado
+
+balık (yemek)
+
+*pescado = caught/eaten; pez = alive*",trio-lingua food noun term meals,foo_Gx9H2YtVaar9
+rice *(noun)*,"el arroz
+
+pirinç / pilav",trio-lingua food noun term meals,foo_ubiFWOK9IzH4
+egg *(noun)*,"el huevo
+
+yumurta",trio-lingua food noun term meals,foo_yx8hkrq3XFDR
+cheese *(noun)*,"el queso
+
+peynir",trio-lingua food noun term meals,foo_BIgMQtLci_4v
+sugar *(noun)*,"el azúcar
+
+şeker",trio-lingua food noun term meals,foo_4WgogeDA08WA
+salt *(noun)*,"la sal
+
+tuz",trio-lingua food noun term meals,foo_YRd2IQW2zZpZ
+drink *(noun)*,"la bebida
+
+içecek",trio-lingua food noun term drinks,foo_reNIdVlCt7MN
+water *(noun)*,"el agua
+
+su
+
+*feminine but takes el in singular*",trio-lingua food noun term drinks,foo_QmX7Kmrzi0kO
+sparkling water *(noun)*,"el agua con gas
+
+maden suyu / gazlı su",trio-lingua food noun term drinks,foo_2xj8Tfh3CIZ9
+coffee *(noun)*,"el café
+
+kahve",trio-lingua food noun term drinks,foo_eoddFRL87tFC
+tea *(noun)*,"el té
+
+çay",trio-lingua food noun term drinks,foo_Tz1VjSjHVY1T
+milk *(noun)*,"la leche
+
+süt",trio-lingua food noun term drinks,foo_uN694websNqV
+juice *(noun)*,"el zumo / el jugo
+
+meyve suyu
+
+*zumo in Spain, jugo in Latin America*",trio-lingua food noun term drinks,foo_h43FxpmazJ2F
+wine *(noun)*,"el vino
+
+şarap",trio-lingua food noun term drinks,foo_K47Cyn_scWiZ
+beer *(noun)*,"la cerveza
+
+bira",trio-lingua food noun term drinks,foo_D3CL35XNdnES
+soft drink *(noun)*,"el refresco
+
+gazoz / meşrubat",trio-lingua food noun term drinks,foo_Iq5svLFqQe6m
+restaurant *(noun)*,"el restaurante
+
+restoran",trio-lingua food noun term restaurant,foo_H4Xs6Lxbre9e
+cafe *(noun)*,"la cafetería / el café
+
+kafe",trio-lingua food noun term restaurant,foo_tInC40flqGAb
+bar *(noun)*,"el bar
+
+bar",trio-lingua food noun term restaurant,foo_L6aIzDZGE8zZ
+menu *(noun)*,"la carta / el menú
+
+menü
+
+*la carta = list of dishes; el menú = set meal*",trio-lingua food noun term restaurant,foo_p8YaN80Ih4hJ
+waiter / waitress *(noun)*,"el camarero / la camarera
+
+garson",trio-lingua food noun term restaurant,foo_E07trLBbaf35
+table *(noun)*,"la mesa
+
+masa",trio-lingua food noun term restaurant,foo_4FIyDXHbRmx0
+chair *(noun)*,"la silla
+
+sandalye",trio-lingua food noun term restaurant,foo_eVf4G9KlntRj
+bill / check *(noun)*,"la cuenta
+
+hesap",trio-lingua food noun term restaurant,foo_MARzgYr_Qg_5
+tip *(noun)*,"la propina
+
+bahşiş",trio-lingua food noun term restaurant,foo_JBqqCmglTNNn
+reservation *(noun)*,"la reserva
+
+rezervasyon",trio-lingua food noun term restaurant,foo_8nzfem4uhw07
+dish *(noun)*,"el plato
+
+yemek / tabak",trio-lingua food noun term restaurant,foo_0W4tJenbjjmz
+glass *(noun)*,"el vaso / la copa
+
+bardak / kadeh
+
+*copa for wine*",trio-lingua food noun term restaurant,foo_MB9wU6agVHWi
+cup *(noun)*,"la taza
+
+fincan",trio-lingua food noun term restaurant,foo_a8acshb1i0-n
+fork *(noun)*,"el tenedor
+
+çatal",trio-lingua food noun term restaurant,foo_VFbaMLjpisXn
+knife *(noun)*,"el cuchillo
+
+bıçak",trio-lingua food noun term restaurant,foo_EzjbE-vnG0R6
+spoon *(noun)*,"la cuchara
+
+kaşık",trio-lingua food noun term restaurant,foo_zKnCMJpl0NG5
+napkin *(noun)*,"la servilleta
+
+peçete",trio-lingua food noun term restaurant,foo_vFSGHFeZUCDN
+to eat *(verb)*,"comer
+
+yemek (fiil)",trio-lingua food verb term ordering,foo_X37o2VuJ5WJm
+to drink *(verb)*,"beber / tomar
+
+içmek",trio-lingua food verb term ordering,foo_8995NvwB6PsL
+to order *(verb)*,"pedir
+
+sipariş vermek",trio-lingua food verb term ordering,foo_Vae8eawHliUV
+to pay *(verb)*,"pagar
+
+ödemek",trio-lingua food verb term ordering,foo_b-GBaHKx_fxI
+I would like… *(phrase)*,"Quisiera… / Me gustaría…
+
+…istiyorum (kibar)",trio-lingua food phrase ordering,foo_AXxgQiF_Qnka
+"I want a coffee, please. *(phrase)*","Quiero un café, por favor.
+
+Bir kahve istiyorum, lütfen.",trio-lingua food phrase ordering,foo_nokTtUON5H2K
+"A table for two, please. *(phrase)*","Una mesa para dos, por favor.
+
+İki kişilik bir masa, lütfen.",trio-lingua food phrase ordering,foo_NoMa1hjaVbY8
+"The menu, please. *(phrase)*","La carta, por favor.
+
+Menü, lütfen.",trio-lingua food phrase ordering,foo_N_3XarRMe7CW
+What do you recommend? *(phrase)*,"¿Qué me recomienda?
+
+Ne tavsiye edersiniz?",trio-lingua food phrase ordering,foo_TX5jTISK0IqG
+"The bill, please. *(phrase)*","La cuenta, por favor.
+
+Hesap, lütfen.",trio-lingua food phrase ordering,foo_oTrprb47wjeR
+To go / takeaway *(phrase)*,"Para llevar
+
+Paket / gitmek üzere",trio-lingua food phrase ordering,foo_TyPNVZkgcE4M
+For here *(phrase)*,"Para tomar aquí
+
+Burada içmek/yemek için",trio-lingua food phrase ordering,foo_PoNondNYQmuV
+I am vegetarian. *(phrase)*,"Soy vegetariano / vegetariana.
+
+Vejetaryenim.",trio-lingua food phrase ordering,foo_9tt7jwkpvJuo
+I am allergic to… *(phrase)*,"Soy alérgico / alérgica a…
+
+…alerjim var.",trio-lingua food phrase ordering,foo_mUEdZgux-Mmt
+Enjoy your meal! *(phrase)*,"¡Buen provecho!
+
+Afiyet olsun!",trio-lingua food phrase ordering,foo_PH3Bp2F6jSt-
+Cheers! *(phrase)*,"¡Salud!
+
+Şerefe!",trio-lingua food phrase ordering,foo_3-lMFcnGR4Hz
+I'm hungry. *(phrase)*,"Tengo hambre.
+
+Açım.
+
+*literally: I have hunger*",trio-lingua food phrase ordering,foo_5zio4AbTC7ua
+I'm thirsty. *(phrase)*,"Tengo sed.
+
+Susadım.
+
+*literally: I have thirst*",trio-lingua food phrase ordering,foo_hrGhEkE9dO_1
+It's delicious. *(phrase)*,"Está delicioso / Está muy rico.
+
+Çok lezzetli.",trio-lingua food phrase ordering,foo_4ctmNik96-xl
+the (masculine singular) *(article)*,"el
+
+belirli artikel (eril tekil)",trio-lingua grammar article term definite-articles,gra_5f42hdC2krBD
+the (feminine singular) *(article)*,"la
+
+belirli artikel (dişil tekil)",trio-lingua grammar article term definite-articles,gra_2OZEqsDKIrvE
+the (masculine plural) *(article)*,"los
+
+belirli artikel (eril çoğul)",trio-lingua grammar article term definite-articles,gra_HiUCazMwaAPM
+the (feminine plural) *(article)*,"las
+
+belirli artikel (dişil çoğul)",trio-lingua grammar article term definite-articles,gra_OD2mSp1BjkSo
+a / an (masculine singular) *(article)*,"un
+
+belirsiz artikel (eril tekil)",trio-lingua grammar article term indefinite-articles,gra_hOFWhHyjXW1d
+a / an (feminine singular) *(article)*,"una
+
+belirsiz artikel (dişil tekil)",trio-lingua grammar article term indefinite-articles,gra_NLb7lrDR8Qdr
+some (masculine plural) *(article)*,"unos
+
+belirsiz artikel (eril çoğul) / bazı",trio-lingua grammar article term indefinite-articles,gra_wf1KEvmzNXmY
+some (feminine plural) *(article)*,"unas
+
+belirsiz artikel (dişil çoğul) / bazı",trio-lingua grammar article term indefinite-articles,gra_IUaWYss1J5Tq
+I *(pronoun)*,"yo
+
+ben
+
+*subject pronoun*",trio-lingua grammar pronoun term pronouns,gra_JmE1KAZdpUSy
+you (informal singular) *(pronoun)*,"tú
+
+sen (tekil, samimi)
+
+*subject pronoun; accent on ú*",trio-lingua grammar pronoun term pronouns,gra_UDhTTIRL2pIl
+he *(pronoun)*,"él
+
+o (erkek)
+
+*subject pronoun; accent on é*",trio-lingua grammar pronoun term pronouns,gra_b2_lj1YkvjjM
+she *(pronoun)*,"ella
+
+o (kadın)
+
+*subject pronoun*",trio-lingua grammar pronoun term pronouns,gra_AD1yalrcidmp
+you (formal singular) *(pronoun)*,"usted (ud.)
+
+siz (tekil, resmi)
+
+*subject pronoun; takes 3rd-person verbs*",trio-lingua grammar pronoun term pronouns,gra_EYTVjQuCIFzw
+we (masculine / mixed) *(pronoun)*,"nosotros
+
+biz (eril / karma)
+
+*subject pronoun*",trio-lingua grammar pronoun term pronouns,gra_df4-FAc91m3G
+we (feminine) *(pronoun)*,"nosotras
+
+biz (dişil)
+
+*subject pronoun*",trio-lingua grammar pronoun term pronouns,gra_UJ1QK8BdNvC9
+"you all (informal, Spain) *(pronoun)*","vosotros
+
+siz (çoğul, samimi — İspanya)
+
+*subject pronoun; mainly Spain*",trio-lingua grammar pronoun term pronouns,gra_K6G9lWUaDjKH
+"you all (feminine, Spain) *(pronoun)*","vosotras
+
+siz (dişil çoğul, samimi — İspanya)
+
+*subject pronoun; mainly Spain*",trio-lingua grammar pronoun term pronouns,gra_BnUl2kscto_S
+they (masculine / mixed) *(pronoun)*,"ellos
+
+onlar (eril / karma)
+
+*subject pronoun*",trio-lingua grammar pronoun term pronouns,gra_NRTWoSAtIQdD
+they (feminine) *(pronoun)*,"ellas
+
+onlar (dişil)
+
+*subject pronoun*",trio-lingua grammar pronoun term pronouns,gra_2OK7p8TZRLsw
+you all (formal / LatAm) *(pronoun)*,"ustedes (uds.)
+
+siz (çoğul, resmi / LatAm)
+
+*subject pronoun; takes 3rd-person plural verbs*",trio-lingua grammar pronoun term pronouns,gra_wE6_MzZX3MpJ
+to be (ser) *(verb)*,"ser
+
+olmak (kalıcı / kimlik / özellik)
+
+*essence, identity, origin, time, profession — permanent or defining*",trio-lingua grammar verb term ser,gra_kjUDzhPVKLfQ
+I am (ser) *(verb)*,"(yo) soy
+
+(ben) …im / …yım (ser)
+
+*present indicative*",trio-lingua grammar verb term ser,gra_fsfms6fol9mU
+"you are (ser, informal) *(verb)*","(tú) eres
+
+(sen) …sin (ser)
+
+*present indicative*",trio-lingua grammar verb term ser,gra_NtXrmORfE8L-
+he / she / you formal is (ser) *(verb)*,"(él / ella / usted) es
+
+(o / siz) …dir / …dır (ser)
+
+*present indicative*",trio-lingua grammar verb term ser,gra__dTXNJBW1dck
+we are (ser) *(verb)*,"(nosotros / nosotras) somos
+
+(biz) …iz / …yiz (ser)
+
+*present indicative*",trio-lingua grammar verb term ser,gra_wMPNH2yQBFF-
+"you all are (ser, Spain) *(verb)*","(vosotros / vosotras) sois
+
+(siz) …siniz (ser — İspanya)
+
+*present indicative*",trio-lingua grammar verb term ser,gra_W_sBZe7i_jd2
+they / you all are (ser) *(verb)*,"(ellos / ellas / ustedes) son
+
+(onlar / siz) …dirler / …dırlar (ser)
+
+*present indicative*",trio-lingua grammar verb term ser,gra_si9TokTmucjn
+to be (estar) *(verb)*,"estar
+
+olmak / bulunmak (geçici / konum / durum)
+
+*location, temporary state, emotion, progressive — how/where something is*",trio-lingua grammar verb term estar,gra_cmIxMnq1yp3N
+I am (estar) *(verb)*,"(yo) estoy
+
+(ben) …im / bulunuyorum (estar)
+
+*present indicative*",trio-lingua grammar verb term estar,gra_1BqOZlhCBMEe
+"you are (estar, informal) *(verb)*","(tú) estás
+
+(sen) …sin / bulunuyorsun (estar)
+
+*present indicative*",trio-lingua grammar verb term estar,gra_FQ7bNfLQ0iQi
+he / she / you formal is (estar) *(verb)*,"(él / ella / usted) está
+
+(o / siz) …dir / bulunuyor (estar)
+
+*present indicative*",trio-lingua grammar verb term estar,gra_tROwvacBD8K4
+we are (estar) *(verb)*,"(nosotros / nosotras) estamos
+
+(biz) …iz / bulunuyoruz (estar)
+
+*present indicative*",trio-lingua grammar verb term estar,gra_fXfqvxgW1zmu
+"you all are (estar, Spain) *(verb)*","(vosotros / vosotras) estáis
+
+(siz) …siniz / bulunuyorsunuz (estar — İspanya)
+
+*present indicative*",trio-lingua grammar verb term estar,gra_pjTnH8kizlwa
+they / you all are (estar) *(verb)*,"(ellos / ellas / ustedes) están
+
+(onlar / siz) …dirler / bulunuyorlar (estar)
+
+*present indicative*",trio-lingua grammar verb term estar,gra_mSDMKjHSnI3_
+animal *(noun)*,"el animal
+
+hayvan",trio-lingua nature noun term animals,nat_fLF6rlAVW9pb
+plant *(noun)*,"la planta
+
+bitki",trio-lingua nature noun term plants,nat_36ClpSOvtHdy
+fruit *(noun)*,"la fruta
+
+meyve",trio-lingua nature noun term fruits,nat_oGwDXyF6f0tv
+vegetable *(noun)*,"la verdura / el vegetal
+
+sebze",trio-lingua nature noun term vegetables,nat_BPot1HElGXsF
+dog *(noun)*,"el perro / la perra
+
+köpek",trio-lingua nature noun term animals,nat_CZji9Tj2ezcJ
+cat *(noun)*,"el gato / la gata
+
+kedi",trio-lingua nature noun term animals,nat_l03z6H6ydylq
+bird *(noun)*,"el pájaro / el ave
+
+kuş",trio-lingua nature noun term animals,nat_oGDVfMzzLL_W
+fish *(noun)*,"el pez (pl. los peces)
+
+balık",trio-lingua nature noun term animals,nat_OJgXPvq27pHG
+horse *(noun)*,"el caballo / la yegua
+
+at",trio-lingua nature noun term animals,nat_UPYBOSkGE5X1
+cow *(noun)*,"la vaca
+
+inek",trio-lingua nature noun term animals,nat_3ds0toEoOQwe
+bull *(noun)*,"el toro
+
+boğa",trio-lingua nature noun term animals,nat_vFf6YoHfupsg
+pig *(noun)*,"el cerdo / la cerda
+
+domuz",trio-lingua nature noun term animals,nat_6bjI5VfbINpX
+sheep *(noun)*,"la oveja
+
+koyun",trio-lingua nature noun term animals,nat_KMmcJ2tumkB1
+goat *(noun)*,"la cabra
+
+keçi",trio-lingua nature noun term animals,nat_Pac2XKR_SUhB
+chicken *(noun)*,"el pollo / la gallina
+
+tavuk",trio-lingua nature noun term animals,nat_aQ4817qL_jKX
+rooster *(noun)*,"el gallo
+
+horoz",trio-lingua nature noun term animals,nat_au27wEZ46rRE
+duck *(noun)*,"el pato / la pata
+
+ördek",trio-lingua nature noun term animals,nat_femCYqrcoUWT
+rabbit *(noun)*,"el conejo / la coneja
+
+tavşan",trio-lingua nature noun term animals,nat_XVlSPz4e6ZZC
+mouse *(noun)*,"el ratón / la ratona
+
+fare",trio-lingua nature noun term animals,nat_u42h7j1d98cr
+bear *(noun)*,"el oso / la osa
+
+ayı",trio-lingua nature noun term animals,nat_rPW1rmZyC5f5
+lion *(noun)*,"el león / la leona
+
+aslan",trio-lingua nature noun term animals,nat_5aB4jRId5Kra
+tiger *(noun)*,"el tigre / la tigresa
+
+kaplan",trio-lingua nature noun term animals,nat_EATfniVH3s9y
+elephant *(noun)*,"el elefante / la elefanta
+
+fil",trio-lingua nature noun term animals,nat_d83W8LPkIJMH
+monkey *(noun)*,"el mono / la mona
+
+maymun",trio-lingua nature noun term animals,nat_NNRWd0h8QRKg
+wolf *(noun)*,"el lobo / la loba
+
+kurt",trio-lingua nature noun term animals,nat_u5p5Yxx2kQUl
+fox *(noun)*,"el zorro / la zorra
+
+tilki",trio-lingua nature noun term animals,nat_xPt1Bhx2GRVx
+snake *(noun)*,"la serpiente
+
+yılan",trio-lingua nature noun term animals,nat_U380AupHVzfc
+frog *(noun)*,"la rana
+
+kurbağa",trio-lingua nature noun term animals,nat_DpCcknk0B2fs
+butterfly *(noun)*,"la mariposa
+
+kelebek",trio-lingua nature noun term animals,nat_agyJc1rnbfq-
+bee *(noun)*,"la abeja
+
+arı",trio-lingua nature noun term animals,nat_O5ucxYfPKcnl
+spider *(noun)*,"la araña
+
+örümcek",trio-lingua nature noun term animals,nat_9WEEBpLQnASF
+ant *(noun)*,"la hormiga
+
+karınca",trio-lingua nature noun term animals,nat_B9tmW_TsgSFT
+tree *(noun)*,"el árbol
+
+ağaç",trio-lingua nature noun term plants,nat_JpbCqVoN8feR
+flower *(noun)*,"la flor
+
+çiçek",trio-lingua nature noun term plants,nat_3C2o-Qn6yJzf
+grass *(noun)*,"la hierba / el césped
+
+çimen / ot",trio-lingua nature noun term plants,nat_7FSqt7pSsgMJ
+leaf *(noun)*,"la hoja
+
+yaprak",trio-lingua nature noun term plants,nat__UyqrXfUh2Al
+seed *(noun)*,"la semilla
+
+tohum",trio-lingua nature noun term plants,nat_89mdyiWSk50h
+root *(noun)*,"la raíz
+
+kök",trio-lingua nature noun term plants,nat_CfiEeijMiewq
+branch *(noun)*,"la rama
+
+dal",trio-lingua nature noun term plants,nat_TvWm9I_OFIbU
+bush *(noun)*,"el arbusto
+
+çalı",trio-lingua nature noun term plants,nat_1Bvj1j9GLfHU
+forest *(noun)*,"el bosque
+
+orman",trio-lingua nature noun term plants,nat_AjdZjRdfONQB
+garden *(noun)*,"el jardín
+
+bahçe",trio-lingua nature noun term plants,nat_Nf4oVVB1niky
+rose *(noun)*,"la rosa
+
+gül",trio-lingua nature noun term plants,nat_xQ73CEgzkSnR
+oak *(noun)*,"el roble
+
+meşe",trio-lingua nature noun term plants,nat_Waw10Wqv6x95
+pine *(noun)*,"el pino
+
+çam",trio-lingua nature noun term plants,nat_ENs9xItTY3IJ
+cactus *(noun)*,"el cactus
+
+kaktüs",trio-lingua nature noun term plants,nat_MltjAGYNFcTC
+apple *(noun)*,"la manzana
+
+elma",trio-lingua nature noun term fruits,nat_f0Mjbq50BvSI
+banana *(noun)*,"el plátano / la banana
+
+muz",trio-lingua nature noun term fruits,nat_qadffmSmNFzM
+orange *(noun)*,"la naranja
+
+portakal",trio-lingua nature noun term fruits,nat_AoTHTPvfwIBi
+lemon *(noun)*,"el limón
+
+limon",trio-lingua nature noun term fruits,nat_KzUorrLv0MkF
+strawberry *(noun)*,"la fresa
+
+çilek",trio-lingua nature noun term fruits,nat_OTbC-T9yOZzi
+grape *(noun)*,"la uva
+
+üzüm",trio-lingua nature noun term fruits,nat_R4LocPOLu2bD
+watermelon *(noun)*,"la sandía
+
+karpuz",trio-lingua nature noun term fruits,nat_Y88jJ4uMSaQR
+melon *(noun)*,"el melón
+
+kavun",trio-lingua nature noun term fruits,nat_zRFNww_Xg1SD
+pear *(noun)*,"la pera
+
+armut",trio-lingua nature noun term fruits,nat_2Yr6cBtlDwEP
+peach *(noun)*,"el melocotón / el durazno
+
+şeftali",trio-lingua nature noun term fruits,nat_1gQnIrFNvbbV
+cherry *(noun)*,"la cereza
+
+kiraz",trio-lingua nature noun term fruits,nat_-RnezfGYUcYy
+pineapple *(noun)*,"la piña
+
+ananas",trio-lingua nature noun term fruits,nat_tUt_34ZDgEfs
+mango *(noun)*,"el mango
+
+mango",trio-lingua nature noun term fruits,nat_8wJ5xgfx5BWH
+kiwi *(noun)*,"el kiwi
+
+kivi",trio-lingua nature noun term fruits,nat_tmNLrHEZB9qd
+fig *(noun)*,"el higo
+
+incir",trio-lingua nature noun term fruits,nat_PdlxvLdwQqSZ
+coconut *(noun)*,"el coco
+
+hindistan cevizi",trio-lingua nature noun term fruits,nat_2Zlp1u0nDA75
+blueberry *(noun)*,"el arándano
+
+yaban mersini",trio-lingua nature noun term fruits,nat_Pt6Bas-5fvKI
+raspberry *(noun)*,"la frambuesa
+
+ahududu",trio-lingua nature noun term fruits,nat_a5_zjUcoDxA0
+tomato *(noun)*,"el tomate
+
+domates",trio-lingua nature noun term vegetables,nat_ZBxDoH9eNjbP
+potato *(noun)*,"la patata / la papa
+
+patates",trio-lingua nature noun term vegetables,nat_WbrfbWnuqqfT
+carrot *(noun)*,"la zanahoria
+
+havuç",trio-lingua nature noun term vegetables,nat_RWW2v0nRMTD4
+onion *(noun)*,"la cebolla
+
+soğan",trio-lingua nature noun term vegetables,nat_bVUqowggo0pW
+garlic *(noun)*,"el ajo
+
+sarımsak",trio-lingua nature noun term vegetables,nat_g6o_GUZTy_Tn
+lettuce *(noun)*,"la lechuga
+
+marul",trio-lingua nature noun term vegetables,nat_xYQ8Ua5tRl7e
+cucumber *(noun)*,"el pepino
+
+salatalık",trio-lingua nature noun term vegetables,nat_d5O0wIkAJEMc
+pepper *(noun)*,"el pimiento
+
+biber",trio-lingua nature noun term vegetables,nat_lKP8CNZZKPP7
+spinach *(noun)*,"las espinacas
+
+ıspanak",trio-lingua nature noun term vegetables,nat_AVtrbt-E8XCI
+broccoli *(noun)*,"el brócoli
+
+brokoli",trio-lingua nature noun term vegetables,nat_rEEw-9i8cyXX
+cabbage *(noun)*,"el repollo / la col
+
+lahana",trio-lingua nature noun term vegetables,nat_C9OtIP8LEDbe
+cauliflower *(noun)*,"la coliflor
+
+karnabahar",trio-lingua nature noun term vegetables,nat_x3kHdFA8nMoU
+eggplant *(noun)*,"la berenjena
+
+patlıcan",trio-lingua nature noun term vegetables,nat_3WMLr2QR7Eql
+zucchini *(noun)*,"el calabacín
+
+kabak",trio-lingua nature noun term vegetables,nat_2SjTQuoBI2U4
+pumpkin *(noun)*,"la calabaza
+
+balkabağı",trio-lingua nature noun term vegetables,nat_OY0W2e9s6_Xd
+corn *(noun)*,"el maíz
+
+mısır",trio-lingua nature noun term vegetables,nat_GCOrAPf7ZEBl
+bean *(noun)*,"el frijol / la judía / la alubia
+
+fasulye",trio-lingua nature noun term vegetables,nat_R1Mj16Zh1-83
+pea *(noun)*,"el guisante
+
+bezelye",trio-lingua nature noun term vegetables,nat_4RhsxqF32Wtg
+mushroom *(noun)*,"el hongo / la seta
+
+mantar",trio-lingua nature noun term vegetables,nat_SOrHW2H5vEw5
+celery *(noun)*,"el apio
+
+kereviz",trio-lingua nature noun term vegetables,nat_-habaPre4PKW
+number *(noun)*,"el número
+
+sayı",trio-lingua numbers noun term general,num_oNgKiKS-iZwE
+zero *(number)*,"cero
+
+sıfır",trio-lingua numbers number term cardinals,num_ph8gb9K5ILv8
+one *(number)*,"uno / un / una
+
+bir
+
+*un before masc. noun, una before fem.*",trio-lingua numbers number term cardinals,num_XVXC2SmkTHRM
+two *(number)*,"dos
+
+iki",trio-lingua numbers number term cardinals,num_wkUeZ86UT6KD
+three *(number)*,"tres
+
+üç",trio-lingua numbers number term cardinals,num_w0bv2w-f1Ubc
+four *(number)*,"cuatro
+
+dört",trio-lingua numbers number term cardinals,num_6EQMeHO8zati
+five *(number)*,"cinco
+
+beş",trio-lingua numbers number term cardinals,num_msmJ0LNDIBk5
+six *(number)*,"seis
+
+altı",trio-lingua numbers number term cardinals,num_OnOsSUcFGKML
+seven *(number)*,"siete
+
+yedi",trio-lingua numbers number term cardinals,num_sp6sSGYB9d3I
+eight *(number)*,"ocho
+
+sekiz",trio-lingua numbers number term cardinals,num_Sn18U2Ua53dC
+nine *(number)*,"nueve
+
+dokuz",trio-lingua numbers number term cardinals,num_38Xd6mslzpoF
+ten *(number)*,"diez
+
+on",trio-lingua numbers number term cardinals,num_j8p3Yv6UeeM_
+eleven *(number)*,"once
+
+on bir",trio-lingua numbers number term cardinals,num_-pdQQXKmPpif
+twelve *(number)*,"doce
+
+on iki",trio-lingua numbers number term cardinals,num_sl5wa18Z7cFC
+thirteen *(number)*,"trece
+
+on üç",trio-lingua numbers number term cardinals,num_iTjW9SbcZJZV
+fourteen *(number)*,"catorce
+
+on dört",trio-lingua numbers number term cardinals,num_iejG7Ba2hGYo
+fifteen *(number)*,"quince
+
+on beş",trio-lingua numbers number term cardinals,num_4Xo83aSH0IZL
+sixteen *(number)*,"dieciséis
+
+on altı",trio-lingua numbers number term cardinals,num_p3pvGZjxOaXe
+seventeen *(number)*,"diecisiete
+
+on yedi",trio-lingua numbers number term cardinals,num_76FAekhumU80
+eighteen *(number)*,"dieciocho
+
+on sekiz",trio-lingua numbers number term cardinals,num_yDpwDCNW8M2H
+nineteen *(number)*,"diecinueve
+
+on dokuz",trio-lingua numbers number term cardinals,num_iH3Z9Wya1--w
+twenty *(number)*,"veinte
+
+yirmi",trio-lingua numbers number term cardinals,num_xqDpgeHjsON9
+twenty-one *(number)*,"veintiuno
+
+yirmi bir
+
+*21–29 are written as one word*",trio-lingua numbers number term cardinals,num_8Rj2_k1WtJvA
+thirty *(number)*,"treinta
+
+otuz",trio-lingua numbers number term cardinals,num_tONiHqriffJb
+forty *(number)*,"cuarenta
+
+kırk",trio-lingua numbers number term cardinals,num_7gdQUHgmY-eI
+fifty *(number)*,"cincuenta
+
+elli",trio-lingua numbers number term cardinals,num_3vwRzW9jjLwL
+sixty *(number)*,"sesenta
+
+altmış",trio-lingua numbers number term cardinals,num_02e7d9BUA3tf
+seventy *(number)*,"setenta
+
+yetmiş",trio-lingua numbers number term cardinals,num_OIpPvWw5qmHF
+eighty *(number)*,"ochenta
+
+seksen",trio-lingua numbers number term cardinals,num_WcTcKxoyL5KH
+ninety *(number)*,"noventa
+
+doksan",trio-lingua numbers number term cardinals,num_2URK_HcuDAsv
+one hundred *(number)*,"cien / ciento
+
+yüz
+
+*cien exactly 100; ciento in 101–199*",trio-lingua numbers number term cardinals,num_NLzrMHFPXxTq
+two hundred *(number)*,"doscientos
+
+iki yüz",trio-lingua numbers number term cardinals,num_0HEljOPx595P
+one thousand *(number)*,"mil
+
+bin",trio-lingua numbers number term cardinals,num_Gf2_DxPDsyGG
+one million *(number)*,"un millón
+
+bir milyon",trio-lingua numbers number term cardinals,num_4u-L7synvGFT
+first *(adjective)*,"primero / primera
+
+birinci
+
+*primer before a masc. singular noun*",trio-lingua numbers adjective term ordinals,num_8jy-PNfAGAOP
+second *(adjective)*,"segundo / segunda
+
+ikinci",trio-lingua numbers adjective term ordinals,num_IMDT_CzfO6-Q
+third *(adjective)*,"tercero / tercera
+
+üçüncü
+
+*tercer before a masc. singular noun*",trio-lingua numbers adjective term ordinals,num_aBL27jfAkicU
+fourth *(adjective)*,"cuarto / cuarta
+
+dördüncü",trio-lingua numbers adjective term ordinals,num_ELjl2VBSnpIR
+fifth *(adjective)*,"quinto / quinta
+
+beşinci",trio-lingua numbers adjective term ordinals,num_I8DnL9hCU7AR
+sixth *(adjective)*,"sexto / sexta
+
+altıncı",trio-lingua numbers adjective term ordinals,num_XWVJO_dqNkkC
+seventh *(adjective)*,"séptimo / séptima
+
+yedinci",trio-lingua numbers adjective term ordinals,num_xxp755y8mGHQ
+eighth *(adjective)*,"octavo / octava
+
+sekizinci",trio-lingua numbers adjective term ordinals,num_eO-tbdWPacN8
+ninth *(adjective)*,"noveno / novena
+
+dokuzuncu",trio-lingua numbers adjective term ordinals,num_n28yIqj89Qn1
+tenth *(adjective)*,"décimo / décima
+
+onuncu",trio-lingua numbers adjective term ordinals,num_E3t5Mb67_prj
+How many? *(phrase)*,"¿Cuántos? / ¿Cuántas?
+
+Kaç tane?",trio-lingua numbers phrase general,num_68S2ufB8nU53
+Hello *(phrase)*,"Hola
+
+Merhaba",trio-lingua phrases phrase greetings,phr_PzY88Vaxl9BY
+Good morning *(phrase)*,"Buenos días
+
+Günaydın",trio-lingua phrases phrase greetings,phr_3VzHtyo65SX9
+Good afternoon *(phrase)*,"Buenas tardes
+
+İyi günler / Tünaydın",trio-lingua phrases phrase greetings,phr_9POpgDPqri-O
+Good evening / Good night *(phrase)*,"Buenas noches
+
+İyi akşamlar / İyi geceler",trio-lingua phrases phrase greetings,phr_ALxgrcW1bjjj
+Goodbye *(phrase)*,"Adiós
+
+Hoşça kal",trio-lingua phrases phrase greetings,phr_RQvn4Vf2kafO
+See you later *(phrase)*,"Hasta luego
+
+Görüşürüz",trio-lingua phrases phrase greetings,phr_O_OBsW6AjTBM
+See you tomorrow *(phrase)*,"Hasta mañana
+
+Yarın görüşürüz",trio-lingua phrases phrase greetings,phr_Xh017LBTpTD4
+Welcome *(phrase)*,"Bienvenido / Bienvenida
+
+Hoş geldin",trio-lingua phrases phrase greetings,phr_lCujiT6EuxdF
+Please *(phrase)*,"Por favor
+
+Lütfen",trio-lingua phrases phrase courtesy,phr_2VLyf3S-6axE
+Thank you *(phrase)*,"Gracias
+
+Teşekkürler",trio-lingua phrases phrase courtesy,phr_YAUA8-Y-i3mL
+Thank you very much *(phrase)*,"Muchas gracias
+
+Çok teşekkürler",trio-lingua phrases phrase courtesy,phr_cZ85uGtpdtga
+You're welcome *(phrase)*,"De nada
+
+Rica ederim",trio-lingua phrases phrase courtesy,phr_uNQY3Fjmh6Od
+Excuse me *(phrase)*,"Perdón / Disculpe
+
+Affedersiniz",trio-lingua phrases phrase courtesy,phr_t-eziOyInwq7
+I'm sorry *(phrase)*,"Lo siento
+
+Özür dilerim",trio-lingua phrases phrase courtesy,phr_aG3JtdTYctas
+Excuse me (passing by) *(phrase)*,"Con permiso
+
+İzninizle",trio-lingua phrases phrase courtesy,phr_rdE3z9YxNJrV
+Yes *(adverb)*,"Sí
+
+Evet",trio-lingua phrases adverb term basics,phr_hltAnacCsQT7
+No *(adverb)*,"No
+
+Hayır",trio-lingua phrases adverb term basics,phr_5HxbdGmj1gWG
+Maybe *(adverb)*,"Tal vez / Quizás
+
+Belki",trio-lingua phrases adverb term basics,phr_LKQZdhe3ARpc
+Of course *(phrase)*,"Claro / Por supuesto
+
+Tabii ki",trio-lingua phrases phrase basics,phr_rVnXQwuxMlaW
+That's all *(phrase)*,"Eso es todo
+
+Hepsi bu",trio-lingua phrases phrase basics,phr_dPH2ATULJidq
+It doesn't matter *(phrase)*,"No importa
+
+Önemli değil",trio-lingua phrases phrase basics,phr_nGPfqeu5bDnJ
+How are you? *(phrase)*,"¿Cómo estás?
+
+Nasılsın?",trio-lingua phrases phrase small-talk,phr_wycR3-74vnoS
+"Fine, thanks. And you? *(phrase)*","Bien, gracias. ¿Y tú?
+
+İyiyim, teşekkürler. Ya sen?",trio-lingua phrases phrase small-talk,phr_d8nOYsudxIbV
+What's your name? *(phrase)*,"¿Cómo te llamas?
+
+Adın ne?",trio-lingua phrases phrase small-talk,phr_WWTyldYXpVUk
+My name is… *(phrase)*,"Me llamo…
+
+Adım…",trio-lingua phrases phrase small-talk,phr_Pr9tlNLhMsX-
+Nice to meet you *(phrase)*,"Mucho gusto / Encantado
+
+Memnun oldum",trio-lingua phrases phrase small-talk,phr_RJz4pTi6mrmt
+Where are you from? *(phrase)*,"¿De dónde eres?
+
+Nerelisin?",trio-lingua phrases phrase small-talk,phr_5YlReK_RYeNv
+I am from… *(phrase)*,"Soy de…
+
+…'lıyım",trio-lingua phrases phrase small-talk,phr_d2AWQ8upsCOd
+What do you do (for a living)? *(phrase)*,"¿A qué te dedicas?
+
+Ne iş yapıyorsun?",trio-lingua phrases phrase small-talk,phr_GvVhCdPZKeDq
+I work as… *(phrase)*,"Trabajo como…
+
+… olarak çalışıyorum",trio-lingua phrases phrase small-talk,phr_YPL4Ocl111F9
+How old are you? *(phrase)*,"¿Cuántos años tienes?
+
+Kaç yaşındasın?",trio-lingua phrases phrase small-talk,phr_zMxA2Syww6_v
+I am … years old. *(phrase)*,"Tengo … años.
+
+… yaşındayım.
+
+*literally: I have … years*",trio-lingua phrases phrase small-talk,phr_y1jGPJ-hSV_8
+Where do you live? *(phrase)*,"¿Dónde vives?
+
+Nerede yaşıyorsun?",trio-lingua phrases phrase small-talk,phr_dUUPoMpNdmB6
+I don't understand *(phrase)*,"No entiendo
+
+Anlamıyorum",trio-lingua phrases phrase help,phr_sAHCwaoURFxV
+I don't know *(phrase)*,"No sé
+
+Bilmiyorum",trio-lingua phrases phrase help,phr_IqxP1_8wou1Y
+Do you speak English? *(phrase)*,"¿Hablas inglés?
+
+İngilizce biliyor musun?",trio-lingua phrases phrase help,phr_KOdtUZqnjhUq
+"Can you repeat, please? *(phrase)*","¿Puedes repetir, por favor?
+
+Tekrar eder misin, lütfen?",trio-lingua phrases phrase help,phr_klAcuhE4qSmh
+"More slowly, please *(phrase)*","Más despacio, por favor
+
+Daha yavaş, lütfen",trio-lingua phrases phrase help,phr_URVYvqWZahUj
+What does … mean? *(phrase)*,"¿Qué significa…?
+
+… ne demek?",trio-lingua phrases phrase help,phr_lMeyysuihQrf
+How do you say … in Spanish? *(phrase)*,"¿Cómo se dice … en español?
+
+İspanyolca … nasıl denir?",trio-lingua phrases phrase help,phr_n3ohG3FxNuik
+How much does it cost? *(phrase)*,"¿Cuánto cuesta?
+
+Ne kadar?",trio-lingua phrases phrase help,phr_Blpqq8FKrX39
+Where is the bathroom? *(phrase)*,"¿Dónde está el baño?
+
+Tuvalet nerede?",trio-lingua phrases phrase help,phr_oQVXn86hhy_U
+Help! *(phrase)*,"¡Socorro! / ¡Ayuda!
+
+İmdat!",trio-lingua phrases phrase help,phr_RmWnyq-waX2i
+travel / trip *(noun)*,"el viaje
+
+seyahat / yolculuk",trio-lingua travel noun term,tra_LeVerozikUMw
+to travel *(verb)*,"viajar
+
+seyahat etmek",trio-lingua travel verb term,tra_zbCWXWx9HvzS
+to go *(verb)*,"ir
+
+gitmek
+
+*irregular: voy, vas, va…*",trio-lingua travel verb term,tra_AZg_hGRuy0Az
+to arrive *(verb)*,"llegar
+
+varmak",trio-lingua travel verb term,tra_AyQHyg6-mDCQ
+to leave / depart *(verb)*,"salir
+
+ayrılmak / kalkmak",trio-lingua travel verb term,tra_zJKfQkFO65aM
+ticket *(noun)*,"el billete / el boleto
+
+bilet
+
+*billete in Spain, boleto in Latin America*",trio-lingua travel noun term,tra_pPyf-L6PQ40W
+passport *(noun)*,"el pasaporte
+
+pasaport",trio-lingua travel noun term,tra_gbmrTeLNlRsY
+luggage *(noun)*,"el equipaje
+
+bagaj",trio-lingua travel noun term,tra_mTt4fa-IOHEb
+suitcase *(noun)*,"la maleta
+
+valiz",trio-lingua travel noun term,tra_i8T6wcQ1Szl5
+backpack *(noun)*,"la mochila
+
+sırt çantası",trio-lingua travel noun term,tra_4znH_0hhuSrM
+map *(noun)*,"el mapa
+
+harita
+
+*masculine despite ending in -a*",trio-lingua travel noun term,tra_IAF2NlD1Y5A_
+hotel *(noun)*,"el hotel
+
+otel",trio-lingua travel noun term,tra_bqI-CXNaOhIK
+room *(noun)*,"la habitación
+
+oda",trio-lingua travel noun term,tra_YnAP7ynYSrUi
+key *(noun)*,"la llave
+
+anahtar",trio-lingua travel noun term,tra_Kp36_wT1ZaYR
+tourist *(noun)*,"el turista / la turista
+
+turist",trio-lingua travel noun term,tra_koWYQaqj84po
+transportation *(noun)*,"el transporte
+
+ulaşım",trio-lingua travel noun term transportation,tra_EyxcZNiuEVGy
+car *(noun)*,"el coche / el carro
+
+araba
+
+*coche in Spain, carro in Latin America*",trio-lingua travel noun term transportation,tra_RWXjAH9TZz76
+bus *(noun)*,"el autobús
+
+otobüs",trio-lingua travel noun term transportation,tra_2IJ5rWUBflPy
+train *(noun)*,"el tren
+
+tren",trio-lingua travel noun term transportation,tra_1qfXZfpju1mU
+plane *(noun)*,"el avión
+
+uçak",trio-lingua travel noun term transportation,tra_c0ahOGkG9k3Q
+taxi *(noun)*,"el taxi
+
+taksi",trio-lingua travel noun term transportation,tra_2DhDeQB0PvoK
+subway / metro *(noun)*,"el metro
+
+metro",trio-lingua travel noun term transportation,tra_6Kdd9y_eOCVF
+bicycle *(noun)*,"la bicicleta
+
+bisiklet",trio-lingua travel noun term transportation,tra_EXtmrXr7CQUW
+motorcycle *(noun)*,"la moto / la motocicleta
+
+motosiklet",trio-lingua travel noun term transportation,tra_nzeRYqYTFGBs
+boat *(noun)*,"el barco
+
+tekne / gemi",trio-lingua travel noun term transportation,tra_9PFyJnKUF-6m
+ferry *(noun)*,"el ferry / el transbordador
+
+feribot",trio-lingua travel noun term transportation,tra_pxPAtM5HDO5m
+airport *(noun)*,"el aeropuerto
+
+havalimanı",trio-lingua travel noun term transportation,tra_5WvfiD6Itqh6
+station *(noun)*,"la estación
+
+istasyon / gar",trio-lingua travel noun term transportation,tra_YnYtW9NzdEyY
+bus stop *(noun)*,"la parada de autobús
+
+otobüs durağı",trio-lingua travel noun term transportation,tra_eHs-9Rif7jSG
+place *(noun)*,"el lugar / el sitio
+
+yer",trio-lingua travel noun term places,tra_TwM6deYEqHGh
+city *(noun)*,"la ciudad
+
+şehir",trio-lingua travel noun term places,tra_xOG5jq9_p_sy
+town *(noun)*,"el pueblo
+
+kasaba",trio-lingua travel noun term places,tra_X8Z8Gu78J_0g
+village *(noun)*,"la aldea / el pueblo
+
+köy",trio-lingua travel noun term places,tra_mEuNnd8S48s0
+capital *(noun)*,"la capital
+
+başkent",trio-lingua travel noun term places,tra_9rJvaq3ReNEN
+neighborhood *(noun)*,"el barrio
+
+mahalle",trio-lingua travel noun term places,tra_riLUU_Pi2AIO
+street *(noun)*,"la calle
+
+sokak / cadde",trio-lingua travel noun term places,tra_TOK5qe7KTAFC
+square *(noun)*,"la plaza
+
+meydan",trio-lingua travel noun term places,tra_syqZnxbfZN11
+park *(noun)*,"el parque
+
+park",trio-lingua travel noun term places,tra_3xrQhvF7RV7_
+beach *(noun)*,"la playa
+
+plaj",trio-lingua travel noun term places,tra_3eEU_8r05FMm
+sea *(noun)*,"el mar
+
+deniz",trio-lingua travel noun term places,tra_4XqBPIijltNI
+ocean *(noun)*,"el océano
+
+okyanus",trio-lingua travel noun term places,tra_rP6v8vfbBps_
+mountain *(noun)*,"la montaña
+
+dağ",trio-lingua travel noun term places,tra_YyNslUWanBW0
+river *(noun)*,"el río
+
+nehir",trio-lingua travel noun term places,tra_h79jSMZPaw8Z
+lake *(noun)*,"el lago
+
+göl",trio-lingua travel noun term places,tra_TRJ1sNIE_uMy
+island *(noun)*,"la isla
+
+ada",trio-lingua travel noun term places,tra_mpGMgu13ugtK
+desert *(noun)*,"el desierto
+
+çöl",trio-lingua travel noun term places,tra_jgVwD5VZBFR8
+museum *(noun)*,"el museo
+
+müze",trio-lingua travel noun term places,tra_apLpNZHOZpRK
+market *(noun)*,"el mercado
+
+pazar / çarşı",trio-lingua travel noun term places,tra_ZHHqpO-1CUaQ
+store / shop *(noun)*,"la tienda
+
+dükkân / mağaza",trio-lingua travel noun term places,tra_Mzrm62-S_15l
+bank *(noun)*,"el banco
+
+banka",trio-lingua travel noun term places,tra_Vf5gX9N_bwpB
+hospital *(noun)*,"el hospital
+
+hastane",trio-lingua travel noun term places,tra_SNWsb7-kSUX4
+pharmacy *(noun)*,"la farmacia
+
+eczane",trio-lingua travel noun term places,tra_zu_q-aQWKgtj
+school *(noun)*,"la escuela
+
+okul",trio-lingua travel noun term places,tra_GXSp5s80ylkh
+university *(noun)*,"la universidad
+
+üniversite",trio-lingua travel noun term places,tra__klBWbbjea7s
+church *(noun)*,"la iglesia
+
+kilise",trio-lingua travel noun term places,tra_vl2wLypu_0Gs
+Where is…? *(phrase)*,"¿Dónde está…?
+
+… nerede?",trio-lingua travel phrase travel-phrases,tra_W6BjfEqfRFAM
+How much is the ticket? *(phrase)*,"¿Cuánto cuesta el billete?
+
+Bilet ne kadar?",trio-lingua travel phrase travel-phrases,tra_24-WW4_B94M3
+I'm lost. *(phrase)*,"Estoy perdido / perdida.
+
+Kayboldum.",trio-lingua travel phrase travel-phrases,tra_G3R2G33iTwPl
+one way *(phrase)*,"solo ida
+
+tek yön",trio-lingua travel phrase travel-phrases,tra_9KfpTPP7d82g
+round trip *(phrase)*,"ida y vuelta
+
+gidiş-dönüş",trio-lingua travel phrase travel-phrases,tra_g7mPMrQEF6XU
+Have a good trip! *(phrase)*,"¡Buen viaje!
+
+İyi yolculuklar!",trio-lingua travel phrase travel-phrases,tra_PU0MT2FsEwaa
+weather *(noun)*,"el tiempo
+
+hava (durumu)
+
+*el tiempo also means 'time'*",trio-lingua weather noun term general,wea_6lZXCBUp9zzT
+What's the weather like? *(phrase)*,"¿Qué tiempo hace?
+
+Hava nasıl?",trio-lingua weather phrase general,wea_vtBz78mtT0pv
+climate *(noun)*,"el clima
+
+iklim
+
+*masculine despite ending in -a*",trio-lingua weather noun term general,wea_mdqAA6OETHBI
+forecast *(noun)*,"el pronóstico
+
+hava tahmini",trio-lingua weather noun term general,wea_qw22Zj5og5vE
+temperature *(noun)*,"la temperatura
+
+sıcaklık",trio-lingua weather noun term general,wea_I4kdSUST2sZi
+degree *(noun)*,"el grado
+
+derece",trio-lingua weather noun term general,wea_2X-wPN0E_E0y
+sun *(noun)*,"el sol
+
+güneş",trio-lingua weather noun term conditions,wea_hGMPPbJ8BLI-
+rain *(noun)*,"la lluvia
+
+yağmur",trio-lingua weather noun term conditions,wea_1A-9gqgmLtDB
+snow *(noun)*,"la nieve
+
+kar",trio-lingua weather noun term conditions,wea_seK8Mi8MVunl
+wind *(noun)*,"el viento
+
+rüzgâr",trio-lingua weather noun term conditions,wea_XNcFPUnS7g3g
+cloud *(noun)*,"la nube
+
+bulut",trio-lingua weather noun term conditions,wea_5VoJDqfwF9LA
+sky *(noun)*,"el cielo
+
+gökyüzü",trio-lingua weather noun term conditions,wea_phJoE5-1vf_z
+storm *(noun)*,"la tormenta
+
+fırtına",trio-lingua weather noun term conditions,wea_b7kezDu4UCOG
+fog *(noun)*,"la niebla
+
+sis",trio-lingua weather noun term conditions,wea_-7Jc9RDJxSqi
+ice *(noun)*,"el hielo
+
+buz",trio-lingua weather noun term conditions,wea__r-d8TWSY3FC
+thunder *(noun)*,"el trueno
+
+gök gürültüsü",trio-lingua weather noun term conditions,wea_xl2tLMo2DOjj
+lightning *(noun)*,"el relámpago
+
+şimşek",trio-lingua weather noun term conditions,wea_DqVwUzk2HwK8
+rainbow *(noun)*,"el arcoíris
+
+gökkuşağı",trio-lingua weather noun term conditions,wea_QNsOiwliLYVg
+shade / shadow *(noun)*,"la sombra
+
+gölge",trio-lingua weather noun term conditions,wea_2ne4wQlSs2UJ
+umbrella *(noun)*,"el paraguas
+
+şemsiye",trio-lingua weather noun term conditions,wea_tN0z7z6hNci4
+sunny *(adjective)*,"soleado / soleada
+
+güneşli",trio-lingua weather adjective term describing,wea_4Ga2vQSJ-Fmk
+cloudy *(adjective)*,"nublado / nublada
+
+bulutlu",trio-lingua weather adjective term describing,wea_hegBBkLdOdmC
+rainy *(adjective)*,"lluvioso / lluviosa
+
+yağmurlu",trio-lingua weather adjective term describing,wea_DXtF7QnMvWTj
+windy *(adjective)*,"ventoso / ventosa
+
+rüzgârlı",trio-lingua weather adjective term describing,wea_0k98oRzoB1yU
+humid *(adjective)*,"húmedo / húmeda
+
+nemli",trio-lingua weather adjective term describing,wea_YF8abawrwakQ
+dry *(adjective)*,"seco / seca
+
+kuru",trio-lingua weather adjective term describing,wea_0M-ToWrFgBNr
+warm *(adjective)*,"templado / cálido
+
+ılık",trio-lingua weather adjective term describing,wea_fAdOw5fDxGvg
+cool (temperature) *(adjective)*,"fresco / fresca
+
+serin",trio-lingua weather adjective term describing,wea_ln8KcEA7zWwY
+to rain *(verb)*,"llover
+
+yağmur yağmak
+
+*irregular: llueve*",trio-lingua weather verb term verbs,wea_tZBEgohssBU6
+to snow *(verb)*,"nevar
+
+kar yağmak
+
+*irregular: nieva*",trio-lingua weather verb term verbs,wea_GpUhccagDcys
+It's hot. *(phrase)*,"Hace calor.
+
+Hava sıcak.
+
+*weather uses hacer, not ser/estar*",trio-lingua weather phrase expressions,wea_qGNqCtNVBBQQ
+It's cold. *(phrase)*,"Hace frío.
+
+Hava soğuk.",trio-lingua weather phrase expressions,wea_iZz3n2LpXfQb
+It's sunny. *(phrase)*,"Hace sol.
+
+Hava güneşli.",trio-lingua weather phrase expressions,wea_26f1iAVm8XmB
+It's windy. *(phrase)*,"Hace viento.
+
+Rüzgârlı.",trio-lingua weather phrase expressions,wea_d8R0CoNqJNy3
+The weather is nice. *(phrase)*,"Hace buen tiempo.
+
+Hava güzel.",trio-lingua weather phrase expressions,wea_WVIEcxabHtfo
+The weather is bad. *(phrase)*,"Hace mal tiempo.
+
+Hava kötü.",trio-lingua weather phrase expressions,wea_q0YiiMiHfYnN
+It's raining. *(phrase)*,"Llueve. / Está lloviendo.
+
+Yağmur yağıyor.",trio-lingua weather phrase expressions,wea_INHR34REsspO
+It's snowing. *(phrase)*,"Nieva. / Está nevando.
+
+Kar yağıyor.",trio-lingua weather phrase expressions,wea_oqzLuZNHvia7
+It's cloudy. *(phrase)*,"Está nublado.
+
+Hava bulutlu.",trio-lingua weather phrase expressions,wea_3B58lbNdpL1A
+It's 20 degrees. *(phrase)*,"Estamos a veinte grados.
+
+Hava 20 derece.",trio-lingua weather phrase expressions,wea_YwaPhh8HqHi5
