@@ -31,25 +31,28 @@ function ensureDir(dir) {
 function listCsvFiles(filter) {
   const files = [];
 
-  for (const name of fs.readdirSync(SRC)) {
-    const full = path.join(SRC, name);
-    const st = fs.statSync(full);
-    if (st.isFile() && name.endsWith(".csv") && name !== "template.csv") {
-      if (!filter || name === `${filter}.csv`) files.push(full);
-    }
-  }
-
-  for (const name of fs.readdirSync(SRC)) {
-    const full = path.join(SRC, name);
-    if (!fs.statSync(full).isDirectory() || name === "media") continue;
-    if (filter && name !== filter) continue;
-    for (const f of fs.readdirSync(full)) {
-      if (f.endsWith(".csv") && f !== "template.csv") {
-        files.push(path.join(full, f));
+  function collect(dir) {
+    for (const name of fs.readdirSync(dir)) {
+      if (name === "media") continue;
+      const full = path.join(dir, name);
+      const st = fs.statSync(full);
+      if (st.isDirectory()) {
+        collect(full);
+        continue;
+      }
+      if (!st.isFile() || !name.endsWith(".csv") || name === "template.csv") {
+        continue;
+      }
+      const rel = path.relative(SRC, full);
+      const top = rel.split(path.sep)[0];
+      // filter = project folder (e.g. trio-lingua) or bare csv name
+      if (!filter || top === filter || top === `${filter}.csv`) {
+        files.push(full);
       }
     }
   }
 
+  collect(SRC);
   return files;
 }
 
