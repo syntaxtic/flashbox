@@ -149,7 +149,7 @@ Import: `neuracache/trio-lingua.md` (preferred) or `neuracache/trio-lingua.csv` 
   
   ---
   ```
-- Tags from `deck`, `subdeck`, `pos`, `kind`, and CSV `tags`
+- Tags from `deck` + `subdeck` only (`#trio-lingua #calendar`). CSV `tags` / `pos` / `kind` stay in source for later.
 - CSV columns for re-import: `Question`, `Content`, `Tags`, `id`
 
 Docs: [NeuraCache howto](https://neuracache.com/howto) · [Markdown flashcards](https://neuracache.com/markdown-flashcards)
@@ -181,7 +181,7 @@ npm run export
 | `id` | card id | `id` column / stable identity |
 | `kind=category` | title card in deck | title flashcard in tag group |
 | `image` | attachment in `.mochi` | local markdown image |
-| `tags` / `level` / `example` | optional card body or fields | optional tags / extra lines |
+| `tags` / `level` / `example` | optional (not exported as tags yet) | optional (not exported as tags yet) |
 
 ## Ideas / improvements
 

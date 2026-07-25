@@ -45,14 +45,7 @@ function tagList(row) {
   const tags = new Set();
   if (row.deck) tags.add(slug(row.deck));
   if (row.subdeck) tags.add(slug(row.subdeck));
-  if (row.pos) tags.add(slug(row.pos));
-  if (row.kind) tags.add(slug(row.kind));
-  if (row.level) tags.add(slug(row.level));
-  const extra = String(row.tags || "")
-    .split(/[|,]/)
-    .map((t) => t.trim())
-    .filter(Boolean);
-  for (const t of extra) tags.add(slug(t));
+  // CSV `tags` / pos / kind / level are kept in source for later; not exported yet.
   return [...tags].filter(Boolean);
 }
 
