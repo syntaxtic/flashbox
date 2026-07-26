@@ -19,9 +19,7 @@ function slug(s) {
 
 function composeFront(row) {
   if (row.en != null && String(row.en).trim() !== "") {
-    const en = String(row.en).trim();
-    const pos = String(row.pos || "").trim();
-    return pos ? `${en} *(${pos})*` : en;
+    return String(row.en).trim();
   }
   return String(row.front || "").trim();
 }
@@ -30,13 +28,7 @@ function composeBack(row) {
   const es = String(row.es || "").trim();
   const tr = String(row.tr || "").trim();
   if (es || tr) {
-    const parts = [es, "", tr];
-    const notes = String(row.notes || "").trim();
-    if (notes) parts.push("", `*${notes}*`);
-    const hint = String(row.hint || "").trim();
-    // hint stays optional; prefer notes for learner tips
-    if (hint && !notes) parts.push("", `_${hint}_`);
-    return parts.join("\n");
+    return [es, "", "---", "", tr].join("\n");
   }
   return String(row.back || "").trim();
 }

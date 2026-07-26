@@ -4,6 +4,7 @@ How to fill CSV rows for this deck. Keep English structured and predictable so e
 
 ## General notes
 
+- **Fields in use:** `id`, `deck`, `subdeck`, `en`, `es`, `tr` — nothing else for now. Extra columns are easy to add later; keep the CSV template minimal.
 - Prefer **literal translations** when they still make sense. Match the source wording closely instead of substituting a natural but looser equivalent. Example: Spanish *con permiso* → English *with your permission* (not *excuse me*). If a freer gloss helps a learner, put it on an extra explanatory line — don’t replace the literal match.
 - For **verb conjugations**, keep the English headword as a simple example sentence/fragment — not a stack of parenthetical roles. Prefer `you are (pl)` over `to be (you) (plural)`. Use the smallest label you need (`(pl)`, `(formal)`, …) only when English alone is ambiguous.
 - **Exports:** English (`en`) is the **front** of the card. The **back** is Spanish (`es`) first, then Turkish (`tr`), separated by a dashed line with an empty line before and after the separator:
@@ -16,6 +17,7 @@ How to fill CSV rows for this deck. Keep English structured and predictable so e
   <turkish>
   ```
 - **Verbs** are a special category — dedicated notes for how we handle them will come later. For now, don’t treat them like regular vocabulary rows.
+- **Phrases** are also a special category — we’ll add them later. For now, keep rows to simple words (not multi-word phrases or phrasals).
 
 ## English (`en`)
 
