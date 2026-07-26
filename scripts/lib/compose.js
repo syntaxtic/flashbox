@@ -1,4 +1,4 @@
-/** Compose front/back from general or trio-lingua CSV rows. */
+/** Compose front/back from general or trio CSV rows. */
 
 function titleCase(s) {
   return String(s || "")

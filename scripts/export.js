@@ -3,7 +3,7 @@
  * Export src CSVs to Mochi + NeuraCache.
  *
  *   npm run export
- *   npm run export -- trio-lingua
+ *   npm run export -- trio
  */
 const fs = require("fs");
 const path = require("path");
@@ -45,7 +45,7 @@ function listCsvFiles(filter) {
       }
       const rel = path.relative(SRC, full);
       const top = rel.split(path.sep)[0];
-      // filter = project folder (e.g. trio-lingua) or bare csv name
+      // filter = project folder (e.g. trio) or bare csv name
       if (!filter || top === filter || top === `${filter}.csv`) {
         files.push(full);
       }

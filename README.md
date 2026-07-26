@@ -20,14 +20,14 @@ Once a card is imported into an app, **never change its `id`**.
 
 | App | File |
 |-----|------|
-| Mochi | `mochi/trio-lingua.mochi` |
-| NeuraCache | `neuracache/trio-lingua.md` (or the folder); iOS CSV: `neuracache/trio-lingua.csv` |
+| Mochi | `mochi/Trio.mochi` |
+| NeuraCache | `neuracache/Trio.md` (or the folder); iOS CSV: `neuracache/Trio.csv` |
 
-NeuraCache uses **tags** (`#trio-lingua` + `#subdeck`), not nested decks. Export tags are deck + subdeck only.
+NeuraCache uses **tags** (`#trio` + `#subdeck`), not nested decks. Export tags are deck + subdeck only.
 
-## Trio Lingua
+## Trio
 
-How to fill `en` / `es` / `tr` (line layout, literal translations, conjugations, …) lives in [`src/trio-lingua/NOTES.md`](src/trio-lingua/NOTES.md).
+How to fill `en` / `es` / `tr` (line layout, literal translations, conjugations, …) lives in [`src/trio/NOTES.md`](src/trio/NOTES.md).
 
 ## Ideas
 
