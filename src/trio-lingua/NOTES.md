@@ -17,7 +17,7 @@ How to fill CSV rows for this deck. Keep English structured and predictable so e
   <turkish>
   ```
 - **Verbs** are a special category — dedicated notes for how we handle them will come later. For now, don’t treat them like regular vocabulary rows.
-- **Phrases** are also a special category — we’ll add them later. For now, keep rows to simple words (not multi-word phrases or phrasals).
+- **Phrases** go in dedicated subdecks (`phrases_a`, …), not mixed into word lists. Keep vocabulary CSVs to simple words.
 
 ## English (`en`)
 
