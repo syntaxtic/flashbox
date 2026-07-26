@@ -176,13 +176,24 @@ function writeMochi(deckName, cards) {
   return out;
 }
 
+/**
+ * NeuraCache "two-sided" cards keep a rich multi-line front:
+ *
+ *   #flashcard #tag
+ *   <front>
+ *   - - -
+ *   <back>
+ *   - - -
+ *
+ * Card content uses `———` (em dashes) so it never looks like a `- - -` rule.
+ */
 function buildNeuraMarkdown(deckName, cards, opts = {}) {
   const lines = [
     `# ${opts.heading || titleCase(deckName)}`,
     "",
     "Import this `.md` (or the whole `neuracache` folder) into NeuraCache.",
     "",
-    "Multi-line flashcards keep Spanish + Turkish readable.",
+    "Two-sided cards: English on the front, Spanish + Turkish on the back.",
     "",
   ];
 
@@ -199,7 +210,7 @@ function buildNeuraMarkdown(deckName, cards, opts = {}) {
       }
       for (const c of groupCards) {
         const hashTags = ["#flashcard", ...c.tags.map((t) => `#${t}`)].join(" ");
-        lines.push(`${c.front} ${hashTags}`, "", c.back, "", "---", "");
+        lines.push(hashTags, "", c.front, "", "- - -", "", c.back, "", "- - -", "");
       }
     }
   }

@@ -23,7 +23,7 @@ Once a card is imported into an app, **never change its `id`**.
 | Mochi | `mochi/Trio.mochi` |
 | NeuraCache | `neuracache/Trio.md` (or the folder); iOS CSV: `neuracache/Trio.csv` |
 
-NeuraCache uses **tags** (`#trio` + `#subdeck`), not nested decks. Export tags are deck + subdeck only.
+NeuraCache uses **tags** (`#subdeck` only — not the parent deck), not nested decks.
 
 ## Trio
 

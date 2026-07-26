@@ -8,12 +8,12 @@ How to fill CSV rows for this deck. Keep English structured and predictable so e
 - **`deck` / `subdeck` names** are display labels, not code identifiers — spacing and capitalization are fine (`Numbers 101`, `Phrases A`). Filenames can stay slug-style (`numbers_101.csv`); the exporter will slug tags when needed.
 - Prefer **literal translations** when they still make sense. Match the source wording closely instead of substituting a natural but looser equivalent. Example: Spanish *con permiso* → English *with your permission* (not *excuse me*). If a freer gloss helps a learner, put it on an extra explanatory line — don’t replace the literal match.
 - For **verb conjugations**, keep the English headword as a simple example sentence/fragment — not a stack of parenthetical roles. Prefer `you are (pl)` over `to be (you) (plural)`. Use the smallest label you need (`(pl)`, `(formal)`, …) only when English alone is ambiguous.
-- **Exports:** English (`en`) is the **front** of the card. The **back** is Spanish (`es`) first, then Turkish (`tr`), separated by a dashed line with an empty line before and after the separator:
+- **Exports:** English (`en`) is the **front** of the card. The **back** is Spanish (`es`) first, then Turkish (`tr`), separated by an em-dash line (`———`) with an empty line before and after — not `---`, which Mochi and NeuraCache already use as card/side breaks:
 
   ```text
   <spanish>
 
-  ---
+  ———
 
   <turkish>
   ```

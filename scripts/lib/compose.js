@@ -28,14 +28,16 @@ function composeBack(row) {
   const es = String(row.es || "").trim();
   const tr = String(row.tr || "").trim();
   if (es || tr) {
-    return [es, "", "---", "", tr].join("\n");
+    // Em dashes — not `---` — so we don't collide with Mochi side breaks
+    // or NeuraCache card separators.
+    return [es, "", "———", "", tr].join("\n");
   }
   return String(row.back || "").trim();
 }
 
 function tagList(row) {
   const tags = new Set();
-  if (row.deck) tags.add(slug(row.deck));
+  // NeuraCache organizes via tags; deck name is redundant there — subdeck only.
   if (row.subdeck) tags.add(slug(row.subdeck));
   // CSV `tags` / pos / kind / level are kept in source for later; not exported yet.
   return [...tags].filter(Boolean);
