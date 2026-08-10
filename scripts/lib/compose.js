@@ -28,8 +28,7 @@ function composeBack(row) {
   const es = String(row.es || "").trim();
   const tr = String(row.tr || "").trim();
   if (es || tr) {
-    // Em dashes — not `---` — so we don't collide with Mochi side breaks
-    // or NeuraCache card separators.
+    // Em dashes — not `---` — so we don't collide with Mochi side breaks.
     return [es, "", "———", "", tr].join("\n");
   }
   return String(row.back || "").trim();
@@ -37,7 +36,7 @@ function composeBack(row) {
 
 function tagList(row) {
   const tags = new Set();
-  // NeuraCache organizes via tags; deck name is redundant there — subdeck only.
+  // Subdeck only — the deck name is already the parent deck.
   if (row.subdeck) tags.add(slug(row.subdeck));
   // CSV `tags` / pos / kind / level are kept in source for later; not exported yet.
   return [...tags].filter(Boolean);

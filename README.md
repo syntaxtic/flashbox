@@ -1,8 +1,8 @@
 # Flashbox
 
-Flashcards for any topic, with exports for **Mochi** and **NeuraCache**.
+Flashcards for any topic, with exports for **Mochi**.
 
-**`src/**/*.csv` is the source of truth.** App files under `mochi/` and `neuracache/` are generated — don’t hand-edit them as the archive.
+**`src/**/*.csv` is the source of truth.** App files under `mochi/` are generated — don’t hand-edit them as the archive.
 
 ## Commands
 
@@ -11,7 +11,7 @@ npm run id                          # one nanoid
 npm run id -- 5                     # five ids
 npm run id -- 3 hist                # hist_<nanoid> × 3
 npm run id:fill -- path/to.csv      # fill blank id cells
-npm run export                      # rebuild Mochi + NeuraCache
+npm run export                      # rebuild Mochi
 ```
 
 Once a card is imported into an app, **never change its `id`**.
@@ -21,9 +21,8 @@ Once a card is imported into an app, **never change its `id`**.
 | App | File |
 |-----|------|
 | Mochi | `mochi/Trio.mochi` |
-| NeuraCache | `neuracache/Trio.md` (or the folder); iOS CSV: `neuracache/Trio.csv` |
 
-NeuraCache uses **tags** (`#subdeck` only — not the parent deck), not nested decks.
+`mochi/Trio.md` is a readable mirror of the same deck — handy for diffs, not for import.
 
 ## Trio
 

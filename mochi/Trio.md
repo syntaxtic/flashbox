@@ -1,6 +1,6 @@
 # Trio — Mochi mirror
 
-Import this `.md` (or the whole `neuracache` folder) into NeuraCache.
+Generated from `src/`. The importable file is the sibling `.mochi` archive.
 
 Two-sided cards: English on the front, Spanish + Turkish on the back.
 

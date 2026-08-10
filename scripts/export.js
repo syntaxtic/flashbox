@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * Export src CSVs to Mochi + NeuraCache.
+ * Export src CSVs to Mochi.
  *
  *   npm run export
  *   npm run export -- trio
@@ -9,7 +9,7 @@ const fs = require("fs");
 const path = require("path");
 const os = require("os");
 const { execFileSync } = require("child_process");
-const { parseCsv, rowsToObjects, objectsToCsv } = require("./lib/csv");
+const { parseCsv, rowsToObjects } = require("./lib/csv");
 const {
   titleCase,
   composeFront,
@@ -22,7 +22,6 @@ const {
 const ROOT = path.resolve(__dirname, "..");
 const SRC = path.join(ROOT, "src");
 const MOCHI_DIR = path.join(ROOT, "mochi");
-const NEURA_DIR = path.join(ROOT, "neuracache");
 
 function ensureDir(dir) {
   fs.mkdirSync(dir, { recursive: true });
@@ -167,9 +166,7 @@ function writeMochi(deckName, cards) {
 
   fs.writeFileSync(
     path.join(MOCHI_DIR, `${deckName}.md`),
-    buildNeuraMarkdown(deckName, cards, {
-      heading: `${titleCase(deckName)} — Mochi mirror`,
-    }),
+    buildMarkdown(deckName, cards),
     "utf8"
   );
 
@@ -177,7 +174,8 @@ function writeMochi(deckName, cards) {
 }
 
 /**
- * NeuraCache "two-sided" cards keep a rich multi-line front:
+ * Plain-text mirror of the deck — readable and diffable next to the
+ * binary `.mochi` archive:
  *
  *   #flashcard #tag
  *   <front>
@@ -187,11 +185,11 @@ function writeMochi(deckName, cards) {
  *
  * Card content uses `———` (em dashes) so it never looks like a `- - -` rule.
  */
-function buildNeuraMarkdown(deckName, cards, opts = {}) {
+function buildMarkdown(deckName, cards) {
   const lines = [
-    `# ${opts.heading || titleCase(deckName)}`,
+    `# ${titleCase(deckName)} — Mochi mirror`,
     "",
-    "Import this `.md` (or the whole `neuracache` folder) into NeuraCache.",
+    "Generated from `src/`. The importable file is the sibling `.mochi` archive.",
     "",
     "Two-sided cards: English on the front, Spanish + Turkish on the back.",
     "",
@@ -218,29 +216,6 @@ function buildNeuraMarkdown(deckName, cards, opts = {}) {
   return lines.join("\n");
 }
 
-function writeNeura(deckName, cards) {
-  ensureDir(NEURA_DIR);
-  const mdPath = path.join(NEURA_DIR, `${deckName}.md`);
-  fs.writeFileSync(mdPath, buildNeuraMarkdown(deckName, cards), "utf8");
-
-  const csvPath = path.join(NEURA_DIR, `${deckName}.csv`);
-  fs.writeFileSync(
-    csvPath,
-    objectsToCsv(
-      cards.map((c) => ({
-        Question: c.front,
-        Content: c.back,
-        Tags: c.tags.join(" "),
-        id: c.id,
-      })),
-      ["Question", "Content", "Tags", "id"]
-    ),
-    "utf8"
-  );
-
-  return { mdPath, csvPath };
-}
-
 function main() {
   const filter = process.argv[2] || null;
   const files = listCsvFiles(filter);
@@ -254,18 +229,16 @@ function main() {
 
   for (const [deckName, deckCards] of groupBy(cards, (c) => c.deck || "flashbox")) {
     const mochiOut = writeMochi(deckName, deckCards);
-    const neura = writeNeura(deckName, deckCards);
     console.log(`  ${deckName}: ${deckCards.length} cards`);
-    console.log(`    Mochi      → ${path.relative(ROOT, mochiOut)}`);
-    console.log(`    NeuraCache → ${path.relative(ROOT, neura.mdPath)}`);
-    console.log(`                 ${path.relative(ROOT, neura.csvPath)}`);
+    console.log(`    Mochi → ${path.relative(ROOT, mochiOut)}`);
   }
 
-  for (const dir of [MOCHI_DIR, NEURA_DIR]) {
-    const keep = path.join(dir, ".gitkeep");
-    if (fs.existsSync(keep) && fs.readdirSync(dir).some((f) => f !== ".gitkeep")) {
-      fs.unlinkSync(keep);
-    }
+  const keep = path.join(MOCHI_DIR, ".gitkeep");
+  if (
+    fs.existsSync(keep) &&
+    fs.readdirSync(MOCHI_DIR).some((f) => f !== ".gitkeep")
+  ) {
+    fs.unlinkSync(keep);
   }
 }
 
