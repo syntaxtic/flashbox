@@ -9,6 +9,7 @@
  */
 const fs = require("fs");
 const { nanoid } = require("nanoid");
+const { parseCsv, objectsToCsv } = require("./lib/csv");
 
 const args = process.argv.slice(2);
 
@@ -23,9 +24,8 @@ function fillCsv(file) {
     process.exit(1);
   }
 
-  const text = fs.readFileSync(file, "utf8");
-  const lines = text.split(/\r?\n/);
-  const header = (lines[0] || "").split(",");
+  const rows = parseCsv(fs.readFileSync(file, "utf8"));
+  const header = (rows[0] || []).map((h) => h.trim());
   const idCol = header.indexOf("id");
   if (idCol === -1) {
     console.error("No `id` column found in header.");
@@ -33,18 +33,17 @@ function fillCsv(file) {
   }
 
   let filled = 0;
-  const out = lines.map((line, i) => {
-    if (i === 0 || line.trim() === "") return line;
-    const cols = line.split(",");
-    while (cols.length < header.length) cols.push("");
-    if (!String(cols[idCol] || "").trim()) {
-      cols[idCol] = makeId();
+  const objects = rows.slice(1).map((cols) => {
+    const obj = {};
+    for (let i = 0; i < header.length; i++) obj[header[i]] = cols[i] ?? "";
+    if (!String(obj.id).trim()) {
+      obj.id = makeId();
       filled++;
     }
-    return cols.join(",");
+    return obj;
   });
 
-  fs.writeFileSync(file, out.join("\n"));
+  fs.writeFileSync(file, objectsToCsv(objects, header));
   console.log(`Filled ${filled} blank id(s) in ${file}`);
 }
 

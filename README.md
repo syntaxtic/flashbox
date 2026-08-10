@@ -20,18 +20,18 @@ Once a card is imported into an app, **never change its `id`**.
 
 | App | Deck | File |
 |-----|------|------|
-| Mochi | Trio | `mochi/Trio.mochi` |
 | Mochi | Babbel | `mochi/babbel.mochi` |
+| Mochi | Grammar | `mochi/grammar.mochi` |
 
 The sibling `.md` files are readable mirrors of the same decks — handy for diffs, not for import.
-
-## Trio
-
-How to fill `en` / `es` / `tr` (line layout, literal translations, conjugations, …) lives in [`src/trio/NOTES.md`](src/trio/NOTES.md).
 
 ## Babbel
 
 Cards from the Babbel app in a plain English → Spanish format (`en` / `es` only). See [`src/babbel/NOTES.md`](src/babbel/NOTES.md).
+
+## Grammar
+
+Spanish grammar points, one rule per card: a question on the front, a short rule plus examples on the back (`front` / `back`). See [`src/grammar/NOTES.md`](src/grammar/NOTES.md).
 
 ## Ideas
 

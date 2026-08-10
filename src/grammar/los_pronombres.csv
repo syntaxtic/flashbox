@@ -1,0 +1,140 @@
+id,deck,subdeck,front,back
+U-QwG5d_hB1H,grammar,los pronombres,"**Personal Pronouns** (Subject)
+
+all subject pronouns (shown with *hablar* — to speak)","- **yo** — *Yo hablo.*
+- **tú** — *Tú hablas.*
+- **él** — *Él habla.*
+- **ella** — *Ella habla.*
+- **usted** — *Usted habla.*
+- **nosotros/nosotras** — *Nosotras hablamos.*
+- **vosotros/vosotras** — *Vosotros habláis.*
+- **ellos** — *Ellos hablan.*
+- **ellas** — *Ellas hablan.*
+- **ustedes** — *Ustedes hablan.*"
+rGs36RD0zdcH,grammar,los pronombres,"**Possessive Adjectives** (before a noun)
+
+all possessive adjectives, one per person","- **mi** — *Mi casa es grande.*
+- **tu** — *Tu perro ladra.*
+- **su** — *Su coche es nuevo.*
+- **nuestro/nuestra** — *Nuestra ciudad es bonita.*
+- **vuestro/vuestra** — *Vuestro jardín es verde.*
+- **su** — *Su idea es buena.*
+
+*Plural: add -s (mis, tus, sus…)*"
+rebppnNGyGpk,grammar,los pronombres,"**Possessive Pronouns** (replace the noun)
+
+all possessive pronouns, one per person","- **mío/mía** — *Este libro es mío.*
+- **tuyo/tuya** — *La casa es tuya.*
+- **suyo/suya** — *El coche es suyo.*
+- **nuestro/nuestra** — *La idea es nuestra.*
+- **vuestro/vuestra** — *El perro es vuestro.*
+- **suyo/suya** — *La culpa es suya.*
+
+*Plural: add -s (míos, tuyas…)*"
+iTJFbwRWqNug,grammar,los pronombres,"**Reflexive Pronouns**
+
+all reflexive pronouns, one per person","- **me** — *Me levanto.*
+- **te** — *Te duchas.*
+- **se** — *Se viste.*
+- **nos** — *Nos despertamos.*
+- **os** — *Os laváis.*
+- **se** — *Se acuestan.*"
+AAbZScblpwtA,grammar,los pronombres,"**Direct Object Pronouns**
+
+all direct object pronouns, one per person","- **me** — *Ella me ve.*
+- **te** — *Te escucho.*
+- **lo** — *Lo compro.*
+- **la** — *La veo.*
+- **nos** — *Nos invitan.*
+- **os** — *Os llamo.*
+- **los** — *Los tengo.*
+- **las** — *Las leo.*"
+IKqGpAwU0Cj6,grammar,los pronombres,"**Indirect Object Pronouns**
+
+all indirect object pronouns, one per person","- **me** — *Me da el libro.*
+- **te** — *Te escribo.*
+- **le** — *Le digo la verdad.*
+- **nos** — *Nos traen café.*
+- **os** — *Os mando fotos.*
+- **les** — *Les explico todo.*
+
+⚠️ le/les → **se** before lo/la/los/las:
+*Se lo doy.* (not ~~le lo~~)"
+QyoyS_0F6S7O,grammar,los pronombres,"**Prepositional Pronouns**
+
+all pronouns used after a preposition (para, en, con, de…)","- **mí** — *Es para mí.*
+- **ti** — *Pienso en ti.*
+- **él** — *Voy con él.*
+- **ella** — *Hablo de ella.*
+- **usted** — *Es para usted.*
+- **nosotros/nosotras** — *Vienen con nosotros.*
+- **vosotros/vosotras** — *Es para vosotras.*
+- **ellos** — *Hablo de ellos.*
+- **ellas** — *Voy con ellas.*
+- **ustedes** — *Es para ustedes.*
+
+⚠️ con + mí/ti:
+- **conmigo** — *Ven conmigo.*
+- **contigo** — *Voy contigo.*"
+UQFf8Dejtxop,grammar,los pronombres,"**Demonstrative Pronouns**
+
+all demonstrative pronouns (this / that / that over there)","- **este/esta** — *Quiero este.*
+- **estos/estas** — *Quiero estas.*
+- **ese/esa** — *Prefiero esa.*
+- **esos/esas** — *Prefiero esos.*
+- **aquel/aquella** — *Aquella es mejor.*
+- **aquellos/aquellas** — *Aquellos son caros.*"
+LauqqFYA3yrN,grammar,los pronombres,"**First Person Singular** (1sg)
+
+every pronoun form for *yo*","- **Subject** — yo
+- **Poss. adj.** — mi
+- **Poss. pron.** — mío/a
+- **Reflexive** — me
+- **Direct object** — me
+- **Indirect object** — me
+- **Prepositional** — mí"
+0t8BPr0vHhl0,grammar,los pronombres,"**Second Person Singular** (2sg)
+
+every pronoun form for *tú*","- **Subject** — tú
+- **Poss. adj.** — tu
+- **Poss. pron.** — tuyo/a
+- **Reflexive** — te
+- **Direct object** — te
+- **Indirect object** — te
+- **Prepositional** — ti"
+av_owjJlOSb5,grammar,los pronombres,"**Third Person Singular** (3sg)
+
+every pronoun form for *él / ella / usted*","- **Subject** — él / ella / usted
+- **Poss. adj.** — su
+- **Poss. pron.** — suyo/a
+- **Reflexive** — se
+- **Direct object** — lo / la
+- **Indirect object** — le
+- **Prepositional** — él / ella / usted"
+lLR3QvVoCJ39,grammar,los pronombres,"**First Person Plural** (1pl)
+
+every pronoun form for *nosotros/as*","- **Subject** — nosotros/as
+- **Poss. adj.** — nuestro/a
+- **Poss. pron.** — nuestro/a
+- **Reflexive** — nos
+- **Direct object** — nos
+- **Indirect object** — nos
+- **Prepositional** — nosotros/as"
+P-ucryd_Os7a,grammar,los pronombres,"**Second Person Plural** (2pl)
+
+every pronoun form for *vosotros/as*","- **Subject** — vosotros/as
+- **Poss. adj.** — vuestro/a
+- **Poss. pron.** — vuestro/a
+- **Reflexive** — os
+- **Direct object** — os
+- **Indirect object** — os
+- **Prepositional** — vosotros/as"
+Nci7cZd1r61X,grammar,los pronombres,"**Third Person Plural** (3pl)
+
+every pronoun form for *ellos / ellas / ustedes*","- **Subject** — ellos / ellas / ustedes
+- **Poss. adj.** — su
+- **Poss. pron.** — suyo/a
+- **Reflexive** — se
+- **Direct object** — los / las
+- **Indirect object** — les
+- **Prepositional** — ellos / ellas / ustedes"

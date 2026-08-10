@@ -185,15 +185,23 @@ function writeMochi(deckName, cards) {
  *
  * Card content uses `———` (em dashes) so it never looks like a `- - -` rule.
  */
+/** Describe the two sides from the columns the deck actually fills. */
+function sidesLine(cards) {
+  const has = (col) => cards.some((c) => String(c[col] || "").trim());
+  if (!has("es") && !has("tr")) return "Two-sided cards.";
+  if (has("tr")) {
+    return "Two-sided cards: English on the front, Spanish + Turkish on the back.";
+  }
+  return "Two-sided cards: English on the front, Spanish on the back.";
+}
+
 function buildMarkdown(deckName, cards) {
   const lines = [
     `# ${titleCase(deckName)} — Mochi mirror`,
     "",
     "Generated from `src/`. The importable file is the sibling `.mochi` archive.",
     "",
-    cards.some((c) => String(c.tr || "").trim())
-      ? "Two-sided cards: English on the front, Spanish + Turkish on the back."
-      : "Two-sided cards: English on the front, Spanish on the back.",
+    sidesLine(cards),
     "",
   ];
 

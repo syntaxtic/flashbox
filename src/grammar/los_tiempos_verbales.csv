@@ -1,0 +1,73 @@
+id,deck,subdeck,front,back
+exDgRjYafCix,grammar,los tiempos verbales,"**Verbs and Gender**
+
+does a Spanish verb change with the subject's gender?","No — verbs change by **person** and **tense** only.
+
+⚠️ Sole exception: a participle used as an adjective agrees.
+*la puerta está cerrada*"
+4IuX4ABfpc6N,grammar,los tiempos verbales,"**Present**
+
+endings by person, in -ar / -er / -ir order (*hablar, comer, vivir*)","- **yo** — -o / -o / -o — *hablo, como, vivo*
+- **tú** — -as / -es / -es — *hablas, comes, vives*
+- **él/ella/usted** — -a / -e / -e — *habla, come, vive*
+- **nosotros/as** — -amos / -emos / -imos — *hablamos, comemos, vivimos*
+- **vosotros/as** — -áis / -éis / -ís — *habláis, coméis, vivís*
+- **ellos/ellas/ustedes** — -an / -en / -en — *hablan, comen, viven*"
+IIxLkiI1SmLs,grammar,los tiempos verbales,"**Preterite** (completed event)
+
+endings by person, in -ar / -er / -ir order (*hablar, comer, vivir*)","- **yo** — -é / -í / -í — *hablé, comí, viví*
+- **tú** — -aste / -iste / -iste — *hablaste, comiste, viviste*
+- **él/ella/usted** — -ó / -ió / -ió — *habló, comió, vivió*
+- **nosotros/as** — -amos / -imos / -imos — *hablamos, comimos, vivimos*
+- **vosotros/as** — -asteis / -isteis / -isteis — *hablasteis, comisteis, vivisteis*
+- **ellos/ellas/ustedes** — -aron / -ieron / -ieron — *hablaron, comieron, vivieron*"
+76SAVNDSYjn6,grammar,los tiempos verbales,"**Imperfect** (ongoing / habitual past)
+
+endings by person, in -ar / -er / -ir order (*hablar, comer, vivir*)","- **yo** — -aba / -ía / -ía — *hablaba, comía, vivía*
+- **tú** — -abas / -ías / -ías — *hablabas, comías, vivías*
+- **él/ella/usted** — -aba / -ía / -ía — *hablaba, comía, vivía*
+- **nosotros/as** — -ábamos / -íamos / -íamos — *hablábamos, comíamos, vivíamos*
+- **vosotros/as** — -abais / -íais / -íais — *hablabais, comíais, vivíais*
+- **ellos/ellas/ustedes** — -aban / -ían / -ían — *hablaban, comían, vivían*
+
+⚠️ Only 3 irregulars in the imperfect: **ser** (era), **ir** (iba), **ver** (veía)
+
+⚠️ Preterite vs. imperfect: *Comía cuando llamaste.* (was eating = imperfect; called = preterite)"
+bbPCfPAPY-sw,grammar,los tiempos verbales,"**Gerund + Continuo**
+
+how the gerund is formed, and what *estar* + gerund gives you","- **-ar** → -ando — *hablando*
+- **-er / -ir** → -iendo — *comiendo, viviendo*
+
+Continuo = **estar** + gerund:
+- *Estoy hablando.*
+- *Estaba comiendo.*
+
+⚠️ Irregulars: *leyendo, oyendo, durmiendo, pidiendo*"
+qUtX2BXk0-Gd,grammar,los tiempos verbales,"**Imperative**
+
+command forms, one per person","- **tú** (afirm.) — = 3sg present — *¡Habla! ¡Come!*
+- **tú** (neg.) — no + subjunctive — *¡No hables!*
+- **usted** — subjunctive — *¡Hable!*
+- **vosotros/as** — -ad / -ed / -id — *¡Hablad! ¡Comed!*
+- **ustedes** — subjunctive — *¡Hablen!*
+
+⚠️ Irregular tú forms: **di, haz, ve, pon, sal, sé, ten, ven**"
+UCZmBeM7Wcu1,grammar,los tiempos verbales,"**Reflexive Placement**
+
+where the reflexive pronoun goes, one case per line","- **before a conjugated verb** — *Me levanto.*
+- **attached to an infinitive** — *Voy a levantarme.*
+- **attached to a gerund** — *Estoy levantándome.*
+- **attached to an affirmative imperative** — *¡Levántate!*
+- **before a negative imperative** — *¡No te levantes!*"
+7u7vxxmNdE0E,grammar,los tiempos verbales,"**Overview** (-ar endings)
+
+present, preterite and imperfect side by side","| Person | Present | Preterite | Imperfect |
+| --- | --- | --- | --- |
+| yo | -o | -é | -aba |
+| tú | -as | -aste | -abas |
+| él/ella/ud. | -a | -ó | -aba |
+| nosotros/as | -amos | -amos | -ábamos |
+| vosotros/as | -áis | -asteis | -abais |
+| ellos/uds. | -an | -aron | -aban |
+
+⚠️ **-amos** is the same in present and preterite — context decides."
