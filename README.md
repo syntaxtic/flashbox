@@ -18,15 +18,20 @@ Once a card is imported into an app, **never change its `id`**.
 
 ## Import
 
-| App | File |
-|-----|------|
-| Mochi | `mochi/Trio.mochi` |
+| App | Deck | File |
+|-----|------|------|
+| Mochi | Trio | `mochi/Trio.mochi` |
+| Mochi | Babbel | `mochi/babbel.mochi` |
 
-`mochi/Trio.md` is a readable mirror of the same deck — handy for diffs, not for import.
+The sibling `.md` files are readable mirrors of the same decks — handy for diffs, not for import.
 
 ## Trio
 
 How to fill `en` / `es` / `tr` (line layout, literal translations, conjugations, …) lives in [`src/trio/NOTES.md`](src/trio/NOTES.md).
+
+## Babbel
+
+Cards from the Babbel app in a plain English → Spanish format (`en` / `es` only). See [`src/babbel/NOTES.md`](src/babbel/NOTES.md).
 
 ## Ideas
 

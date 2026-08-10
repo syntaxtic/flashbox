@@ -27,10 +27,11 @@ function composeFront(row) {
 function composeBack(row) {
   const es = String(row.es || "").trim();
   const tr = String(row.tr || "").trim();
-  if (es || tr) {
+  if (es && tr) {
     // Em dashes — not `---` — so we don't collide with Mochi side breaks.
     return [es, "", "———", "", tr].join("\n");
   }
+  if (es || tr) return es || tr;
   return String(row.back || "").trim();
 }
 

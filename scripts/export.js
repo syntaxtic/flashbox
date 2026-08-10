@@ -191,7 +191,9 @@ function buildMarkdown(deckName, cards) {
     "",
     "Generated from `src/`. The importable file is the sibling `.mochi` archive.",
     "",
-    "Two-sided cards: English on the front, Spanish + Turkish on the back.",
+    cards.some((c) => String(c.tr || "").trim())
+      ? "Two-sided cards: English on the front, Spanish + Turkish on the back."
+      : "Two-sided cards: English on the front, Spanish on the back.",
     "",
   ];
 
