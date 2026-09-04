@@ -62,7 +62,7 @@ function loadCards(files) {
     for (const row of rows) {
       const front = composeFront(row);
       const back = composeBack(row);
-      if (!front || !back) continue;
+      if (!front) continue;
       if (!row.id) {
         console.warn(`skip (no id): ${path.relative(ROOT, file)} → ${front}`);
         continue;

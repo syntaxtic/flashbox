@@ -21,12 +21,17 @@ Once a card is imported into an app, **never change its `id`**.
 | App | Deck | File |
 |-----|------|------|
 | Mochi | Babbel | `mochi/babbel.mochi` |
+| Mochi | Verbs | `mochi/verbs.mochi` |
 
 The sibling `.md` files are readable mirrors of the same decks — handy for diffs, not for import.
 
 ## Babbel
 
 Cards from the Babbel app in a plain English → Spanish format (`en` / `es` only). See [`src/babbel/NOTES.md`](src/babbel/NOTES.md).
+
+## Verbs
+
+Spanish verb conjugations, one verb + tense per card: the front names the verb and tense (in Spanish, e.g. `presente de indicativo`), the back lists the form for all six persons. Subdecks group by mood's short name (`indicativo`, `subjuntivo`). See [`src/verbs/NOTES.md`](src/verbs/NOTES.md).
 
 ## Ideas
 
