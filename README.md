@@ -31,7 +31,7 @@ Cards from the Babbel app in a plain English → Spanish format (`en` / `es` onl
 
 ## Verbs
 
-Spanish verb conjugations, one verb + tense per card: the front names the verb and tense (in Spanish, e.g. `presente de indicativo`), the back lists the form for all six persons. Subdecks group by mood's short name (`indicativo`, `subjuntivo`). See [`src/verbs/NOTES.md`](src/verbs/NOTES.md).
+Spanish verb conjugations, one verb + tense per card: the front names the verb and tense (in Spanish, e.g. `presente de indicativo`), the back lists the form for all six persons. One subdeck per tense. See [`src/verbs/NOTES.md`](src/verbs/NOTES.md).
 
 ## Ideas
 

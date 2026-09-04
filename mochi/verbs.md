@@ -498,9 +498,9 @@ vengan - no vengan
 
 - - -
 
-## II. Indicativo
+## II. Presente De Indicativo
 
-#flashcard #indicativo
+#flashcard #presente-de-indicativo
 
 Presente de indicativo
 
@@ -512,7 +512,7 @@ Used for actions happening now, habits, or general facts. Regular verbs drop the
 
 - - -
 
-#flashcard #indicativo
+#flashcard #presente-de-indicativo
 
 hablar
 presente de indicativo
@@ -528,7 +528,7 @@ hablan
 
 - - -
 
-#flashcard #indicativo
+#flashcard #presente-de-indicativo
 
 viajar
 presente de indicativo
@@ -544,7 +544,7 @@ viajan
 
 - - -
 
-#flashcard #indicativo
+#flashcard #presente-de-indicativo
 
 estudiar
 presente de indicativo
@@ -560,7 +560,7 @@ estudian
 
 - - -
 
-#flashcard #indicativo
+#flashcard #presente-de-indicativo
 
 comprar
 presente de indicativo
@@ -576,7 +576,7 @@ compran
 
 - - -
 
-#flashcard #indicativo
+#flashcard #presente-de-indicativo
 
 trabajar
 presente de indicativo
@@ -592,7 +592,7 @@ trabajan
 
 - - -
 
-#flashcard #indicativo
+#flashcard #presente-de-indicativo
 
 comer
 presente de indicativo
@@ -608,7 +608,7 @@ comen
 
 - - -
 
-#flashcard #indicativo
+#flashcard #presente-de-indicativo
 
 leer
 presente de indicativo
@@ -624,7 +624,7 @@ leen
 
 - - -
 
-#flashcard #indicativo
+#flashcard #presente-de-indicativo
 
 responder
 presente de indicativo
@@ -640,7 +640,7 @@ responden
 
 - - -
 
-#flashcard #indicativo
+#flashcard #presente-de-indicativo
 
 beber
 presente de indicativo
@@ -656,7 +656,7 @@ beben
 
 - - -
 
-#flashcard #indicativo
+#flashcard #presente-de-indicativo
 
 vender
 presente de indicativo
@@ -672,7 +672,7 @@ venden
 
 - - -
 
-#flashcard #indicativo
+#flashcard #presente-de-indicativo
 
 vivir
 presente de indicativo
@@ -688,7 +688,7 @@ viven
 
 - - -
 
-#flashcard #indicativo
+#flashcard #presente-de-indicativo
 
 decidir
 presente de indicativo
@@ -704,7 +704,7 @@ deciden
 
 - - -
 
-#flashcard #indicativo
+#flashcard #presente-de-indicativo
 
 escribir
 presente de indicativo
@@ -720,7 +720,7 @@ escriben
 
 - - -
 
-#flashcard #indicativo
+#flashcard #presente-de-indicativo
 
 abrir
 presente de indicativo
@@ -736,7 +736,7 @@ abren
 
 - - -
 
-#flashcard #indicativo
+#flashcard #presente-de-indicativo
 
 recibir
 presente de indicativo
@@ -752,7 +752,7 @@ reciben
 
 - - -
 
-#flashcard #indicativo
+#flashcard #presente-de-indicativo
 
 ser
 presente de indicativo*
@@ -768,7 +768,7 @@ son
 
 - - -
 
-#flashcard #indicativo
+#flashcard #presente-de-indicativo
 
 estar
 presente de indicativo*
@@ -784,7 +784,7 @@ están
 
 - - -
 
-#flashcard #indicativo
+#flashcard #presente-de-indicativo
 
 tener
 presente de indicativo*
@@ -800,7 +800,7 @@ tienen
 
 - - -
 
-#flashcard #indicativo
+#flashcard #presente-de-indicativo
 
 hacer
 presente de indicativo*
@@ -816,7 +816,7 @@ hacen
 
 - - -
 
-#flashcard #indicativo
+#flashcard #presente-de-indicativo
 
 querer
 presente de indicativo*
@@ -832,7 +832,7 @@ quieren
 
 - - -
 
-#flashcard #indicativo
+#flashcard #presente-de-indicativo
 
 ir
 presente de indicativo*
@@ -848,7 +848,7 @@ van
 
 - - -
 
-#flashcard #indicativo
+#flashcard #presente-de-indicativo
 
 dar
 presente de indicativo*
@@ -864,7 +864,7 @@ dan
 
 - - -
 
-#flashcard #indicativo
+#flashcard #presente-de-indicativo
 
 ver
 presente de indicativo*
@@ -880,7 +880,7 @@ ven
 
 - - -
 
-#flashcard #indicativo
+#flashcard #presente-de-indicativo
 
 oír
 presente de indicativo*
@@ -896,7 +896,7 @@ oyen
 
 - - -
 
-#flashcard #indicativo
+#flashcard #presente-de-indicativo
 
 saber
 presente de indicativo*
@@ -912,7 +912,7 @@ saben
 
 - - -
 
-#flashcard #indicativo
+#flashcard #presente-de-indicativo
 
 salir
 presente de indicativo*
@@ -928,7 +928,7 @@ salen
 
 - - -
 
-#flashcard #indicativo
+#flashcard #presente-de-indicativo
 
 poder
 presente de indicativo*
@@ -944,7 +944,7 @@ pueden
 
 - - -
 
-#flashcard #indicativo
+#flashcard #presente-de-indicativo
 
 decir
 presente de indicativo*
@@ -960,7 +960,7 @@ dicen
 
 - - -
 
-#flashcard #indicativo
+#flashcard #presente-de-indicativo
 
 poner
 presente de indicativo*
@@ -976,7 +976,7 @@ ponen
 
 - - -
 
-#flashcard #indicativo
+#flashcard #presente-de-indicativo
 
 venir
 presente de indicativo*
@@ -992,7 +992,9 @@ vienen
 
 - - -
 
-#flashcard #indicativo
+## III. Pretérito Indefinido
+
+#flashcard #preterito-indefinido
 
 Pretérito indefinido
 
@@ -1004,7 +1006,7 @@ Used for completed actions at a specific point in the past. Regular endings: -é
 
 - - -
 
-#flashcard #indicativo
+#flashcard #preterito-indefinido
 
 hablar
 pretérito indefinido
@@ -1020,7 +1022,7 @@ hablaron
 
 - - -
 
-#flashcard #indicativo
+#flashcard #preterito-indefinido
 
 viajar
 pretérito indefinido
@@ -1036,7 +1038,7 @@ viajaron
 
 - - -
 
-#flashcard #indicativo
+#flashcard #preterito-indefinido
 
 estudiar
 pretérito indefinido
@@ -1052,7 +1054,7 @@ estudiaron
 
 - - -
 
-#flashcard #indicativo
+#flashcard #preterito-indefinido
 
 comprar
 pretérito indefinido
@@ -1068,7 +1070,7 @@ compraron
 
 - - -
 
-#flashcard #indicativo
+#flashcard #preterito-indefinido
 
 trabajar
 pretérito indefinido
@@ -1084,7 +1086,7 @@ trabajaron
 
 - - -
 
-#flashcard #indicativo
+#flashcard #preterito-indefinido
 
 comer
 pretérito indefinido
@@ -1100,7 +1102,7 @@ comieron
 
 - - -
 
-#flashcard #indicativo
+#flashcard #preterito-indefinido
 
 leer
 pretérito indefinido*
@@ -1116,7 +1118,7 @@ leyeron
 
 - - -
 
-#flashcard #indicativo
+#flashcard #preterito-indefinido
 
 responder
 pretérito indefinido
@@ -1132,7 +1134,7 @@ respondieron
 
 - - -
 
-#flashcard #indicativo
+#flashcard #preterito-indefinido
 
 beber
 pretérito indefinido
@@ -1148,7 +1150,7 @@ bebieron
 
 - - -
 
-#flashcard #indicativo
+#flashcard #preterito-indefinido
 
 vender
 pretérito indefinido
@@ -1164,7 +1166,7 @@ vendieron
 
 - - -
 
-#flashcard #indicativo
+#flashcard #preterito-indefinido
 
 vivir
 pretérito indefinido
@@ -1180,7 +1182,7 @@ vivieron
 
 - - -
 
-#flashcard #indicativo
+#flashcard #preterito-indefinido
 
 decidir
 pretérito indefinido
@@ -1196,7 +1198,7 @@ decidieron
 
 - - -
 
-#flashcard #indicativo
+#flashcard #preterito-indefinido
 
 escribir
 pretérito indefinido
@@ -1212,7 +1214,7 @@ escribieron
 
 - - -
 
-#flashcard #indicativo
+#flashcard #preterito-indefinido
 
 abrir
 pretérito indefinido
@@ -1228,7 +1230,7 @@ abrieron
 
 - - -
 
-#flashcard #indicativo
+#flashcard #preterito-indefinido
 
 recibir
 pretérito indefinido
@@ -1244,7 +1246,7 @@ recibieron
 
 - - -
 
-#flashcard #indicativo
+#flashcard #preterito-indefinido
 
 ser
 pretérito indefinido*
@@ -1260,7 +1262,7 @@ fueron
 
 - - -
 
-#flashcard #indicativo
+#flashcard #preterito-indefinido
 
 estar
 pretérito indefinido*
@@ -1276,7 +1278,7 @@ estuvieron
 
 - - -
 
-#flashcard #indicativo
+#flashcard #preterito-indefinido
 
 tener
 pretérito indefinido*
@@ -1292,7 +1294,7 @@ tuvieron
 
 - - -
 
-#flashcard #indicativo
+#flashcard #preterito-indefinido
 
 hacer
 pretérito indefinido*
@@ -1308,7 +1310,7 @@ hicieron
 
 - - -
 
-#flashcard #indicativo
+#flashcard #preterito-indefinido
 
 querer
 pretérito indefinido*
@@ -1324,7 +1326,7 @@ quisieron
 
 - - -
 
-#flashcard #indicativo
+#flashcard #preterito-indefinido
 
 ir
 pretérito indefinido*
@@ -1340,7 +1342,7 @@ fueron
 
 - - -
 
-#flashcard #indicativo
+#flashcard #preterito-indefinido
 
 dar
 pretérito indefinido*
@@ -1356,7 +1358,7 @@ dieron
 
 - - -
 
-#flashcard #indicativo
+#flashcard #preterito-indefinido
 
 ver
 pretérito indefinido*
@@ -1372,7 +1374,7 @@ vieron
 
 - - -
 
-#flashcard #indicativo
+#flashcard #preterito-indefinido
 
 oír
 pretérito indefinido*
@@ -1388,7 +1390,7 @@ oyeron
 
 - - -
 
-#flashcard #indicativo
+#flashcard #preterito-indefinido
 
 saber
 pretérito indefinido*
@@ -1404,7 +1406,7 @@ supieron
 
 - - -
 
-#flashcard #indicativo
+#flashcard #preterito-indefinido
 
 salir
 pretérito indefinido
@@ -1420,7 +1422,7 @@ salieron
 
 - - -
 
-#flashcard #indicativo
+#flashcard #preterito-indefinido
 
 poder
 pretérito indefinido*
@@ -1436,7 +1438,7 @@ pudieron
 
 - - -
 
-#flashcard #indicativo
+#flashcard #preterito-indefinido
 
 decir
 pretérito indefinido*
@@ -1452,7 +1454,7 @@ dijeron
 
 - - -
 
-#flashcard #indicativo
+#flashcard #preterito-indefinido
 
 poner
 pretérito indefinido*
@@ -1468,7 +1470,7 @@ pusieron
 
 - - -
 
-#flashcard #indicativo
+#flashcard #preterito-indefinido
 
 venir
 pretérito indefinido*
@@ -1484,7 +1486,9 @@ vinieron
 
 - - -
 
-#flashcard #indicativo
+## IV. Pretérito Perfecto
+
+#flashcard #preterito-perfecto
 
 Pretérito perfecto
 
@@ -1496,7 +1500,7 @@ Used for past actions connected to the present ("I have done..."). Formed with t
 
 - - -
 
-#flashcard #indicativo
+#flashcard #preterito-perfecto
 
 hablar
 pretérito perfecto
@@ -1512,7 +1516,7 @@ han hablado
 
 - - -
 
-#flashcard #indicativo
+#flashcard #preterito-perfecto
 
 viajar
 pretérito perfecto
@@ -1528,7 +1532,7 @@ han viajado
 
 - - -
 
-#flashcard #indicativo
+#flashcard #preterito-perfecto
 
 estudiar
 pretérito perfecto
@@ -1544,7 +1548,7 @@ han estudiado
 
 - - -
 
-#flashcard #indicativo
+#flashcard #preterito-perfecto
 
 comprar
 pretérito perfecto
@@ -1560,7 +1564,7 @@ han comprado
 
 - - -
 
-#flashcard #indicativo
+#flashcard #preterito-perfecto
 
 trabajar
 pretérito perfecto
@@ -1576,7 +1580,7 @@ han trabajado
 
 - - -
 
-#flashcard #indicativo
+#flashcard #preterito-perfecto
 
 comer
 pretérito perfecto
@@ -1592,7 +1596,7 @@ han comido
 
 - - -
 
-#flashcard #indicativo
+#flashcard #preterito-perfecto
 
 leer
 pretérito perfecto
@@ -1608,7 +1612,7 @@ han leído
 
 - - -
 
-#flashcard #indicativo
+#flashcard #preterito-perfecto
 
 responder
 pretérito perfecto
@@ -1624,7 +1628,7 @@ han respondido
 
 - - -
 
-#flashcard #indicativo
+#flashcard #preterito-perfecto
 
 beber
 pretérito perfecto
@@ -1640,7 +1644,7 @@ han bebido
 
 - - -
 
-#flashcard #indicativo
+#flashcard #preterito-perfecto
 
 vender
 pretérito perfecto
@@ -1656,7 +1660,7 @@ han vendido
 
 - - -
 
-#flashcard #indicativo
+#flashcard #preterito-perfecto
 
 vivir
 pretérito perfecto
@@ -1672,7 +1676,7 @@ han vivido
 
 - - -
 
-#flashcard #indicativo
+#flashcard #preterito-perfecto
 
 decidir
 pretérito perfecto
@@ -1688,7 +1692,7 @@ han decidido
 
 - - -
 
-#flashcard #indicativo
+#flashcard #preterito-perfecto
 
 escribir
 pretérito perfecto*
@@ -1704,7 +1708,7 @@ han escrito
 
 - - -
 
-#flashcard #indicativo
+#flashcard #preterito-perfecto
 
 abrir
 pretérito perfecto*
@@ -1720,7 +1724,7 @@ han abierto
 
 - - -
 
-#flashcard #indicativo
+#flashcard #preterito-perfecto
 
 recibir
 pretérito perfecto
@@ -1736,7 +1740,7 @@ han recibido
 
 - - -
 
-#flashcard #indicativo
+#flashcard #preterito-perfecto
 
 ser
 pretérito perfecto
@@ -1752,7 +1756,7 @@ han sido
 
 - - -
 
-#flashcard #indicativo
+#flashcard #preterito-perfecto
 
 estar
 pretérito perfecto
@@ -1768,7 +1772,7 @@ han estado
 
 - - -
 
-#flashcard #indicativo
+#flashcard #preterito-perfecto
 
 tener
 pretérito perfecto
@@ -1784,7 +1788,7 @@ han tenido
 
 - - -
 
-#flashcard #indicativo
+#flashcard #preterito-perfecto
 
 hacer
 pretérito perfecto*
@@ -1800,7 +1804,7 @@ han hecho
 
 - - -
 
-#flashcard #indicativo
+#flashcard #preterito-perfecto
 
 querer
 pretérito perfecto
@@ -1816,7 +1820,7 @@ han querido
 
 - - -
 
-#flashcard #indicativo
+#flashcard #preterito-perfecto
 
 ir
 pretérito perfecto
@@ -1832,7 +1836,7 @@ han ido
 
 - - -
 
-#flashcard #indicativo
+#flashcard #preterito-perfecto
 
 dar
 pretérito perfecto
@@ -1848,7 +1852,7 @@ han dado
 
 - - -
 
-#flashcard #indicativo
+#flashcard #preterito-perfecto
 
 ver
 pretérito perfecto*
@@ -1864,7 +1868,7 @@ han visto
 
 - - -
 
-#flashcard #indicativo
+#flashcard #preterito-perfecto
 
 oír
 pretérito perfecto
@@ -1880,7 +1884,7 @@ han oído
 
 - - -
 
-#flashcard #indicativo
+#flashcard #preterito-perfecto
 
 saber
 pretérito perfecto
@@ -1896,7 +1900,7 @@ han sabido
 
 - - -
 
-#flashcard #indicativo
+#flashcard #preterito-perfecto
 
 salir
 pretérito perfecto
@@ -1912,7 +1916,7 @@ han salido
 
 - - -
 
-#flashcard #indicativo
+#flashcard #preterito-perfecto
 
 poder
 pretérito perfecto
@@ -1928,7 +1932,7 @@ han podido
 
 - - -
 
-#flashcard #indicativo
+#flashcard #preterito-perfecto
 
 decir
 pretérito perfecto*
@@ -1944,7 +1948,7 @@ han dicho
 
 - - -
 
-#flashcard #indicativo
+#flashcard #preterito-perfecto
 
 poner
 pretérito perfecto*
@@ -1960,7 +1964,7 @@ han puesto
 
 - - -
 
-#flashcard #indicativo
+#flashcard #preterito-perfecto
 
 venir
 pretérito perfecto

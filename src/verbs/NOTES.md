@@ -8,7 +8,7 @@ Spanish verb conjugations. One card per verb per tense: the front names the verb
 
 - **`id`** — one nanoid per card. Never change it once the card is imported. Fill blanks with `npm run id:fill -- src/verbs/<file>.csv`.
 - **`deck`** — `verbs` for every row.
-- **`subdeck`** — the mood, short name in Spanish (`indicativo`, `subjuntivo`, `imperativo`). Groups every tense within that mood together; the specific tense (`presente`, `pretérito indefinido`) lives on the card's `front` instead.
+- **`subdeck`** — the tense, in Spanish (`presente de indicativo`, `pretérito indefinido`, `pretérito perfecto`, `imperativo`). One subdeck per file, matching the tense name that also appears on the card's `front`.
 - **`front`** — the infinitive, then the tense name on its own line. No formatting. Quoted in the CSV (it's two lines).
 - **`back`** — the six conjugated forms, one per line, no labels. Quoted in the CSV.
 
